@@ -1,4 +1,4 @@
-# TASagent TwitchBot Quote Features
+# TASagent TwitchBot Quotes
 
 TASagentPuppet features a relatively simple Quote System.
 
