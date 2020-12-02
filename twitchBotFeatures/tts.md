@@ -97,11 +97,3 @@ Users can set a custom voice that is used just for their TTS commands with `!set
     * `en-US-Standard-H`
     * `en-US-Standard-I`
     * `en-US-Standard-J`
-
-## TTS Management
-
-(For Mods)
-
-* `!set tts enabled` - Enables TTS
-* `!set tts disabled` - Disables TTS
-* `!set tts timeout <timeout>` -  Sets the per-user TTS timeout (in seconds)
