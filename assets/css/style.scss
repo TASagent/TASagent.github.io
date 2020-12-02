@@ -2,4 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-.highlight{background-color:#303030}
+#main_content_wrap{background:#303030}
+h1,h2,h3,h4,h5,h6{color:#d6d6d6}
+body{color:#d6d6d6}
+pre,code{color:#ebebeb;background-color:#000000}
