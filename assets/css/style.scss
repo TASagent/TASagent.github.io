@@ -2,8 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+a{color:#00bc8c;text-decoration:none;background-color:transparent}
+a:hover{color:#007053;text-decoration:underline}
+a:not([href]):not([class]){color:inherit;text-decoration:none}
+a:not([href]):not([class]):hover{color:inherit;text-decoration:none}
 #main_content_wrap{background:#222}
-h1,h2,h3,h4,h5,h6{color:#fff;font-family:Lato,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";}
+#project_title{font-weight: 500;}
+h1,h2,h3,h4,h5,h6{color:#fff;font-weight: 500; font-family:Lato,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";}
 body{color:#fff;font-family:Lato,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";}
 pre,code{color:#fff;background-color:#111}
 th{font-family: Lato,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";}
