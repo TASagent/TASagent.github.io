@@ -66,34 +66,87 @@ TTS supports the inline insertion of sound effects, used like this: `!tts Hey, T
 
 * `/yougotthething` - The classic "You Got The Thing" sound effect
 
-## TTS Personalization
+## TTS Effect Markup
 
-Users can set a custom voice that is used just for their TTS commands with `!set tts voice <ttsVoice>`.  To see samples of the various voices that are available, check out the <a href="https://cloud.google.com/text-to-speech/docs/voices">Google Cloud TTS Voices Page</a>.
+A few features have been added to allow greater control over the voicing of TTS text.
+
+### Emphasizing
+
+To emphasize a word or phrase in the sentence, surround it with underscores (`_`) or asterisks (`*`).  Example: `!tts What on _earth_ are you talking about?`.
+
+### Whispering
+
+The Amazon Polly voices support a whisper mode.  To whisper text, simply surround it with parentheses (`(text)`).  Exmaple: `!tts Oh my! (That was intense!)`.
+
+### Pausing
+
+To insert a pause in the TTS output, use `!pause(duration)`, where the duration is specified in milliseconds.  Example: `!tts Wait for it! !pause(3000) There it is`.
+
+
+## TTS Voice Personalization
+
+A number of features exist that allow you to personalize your TTS voice
 
 ### Supported TTS voices
 
-* Valid Australian English Values:
-    * `en-AU-Standard-A`
-    * `en-AU-Standard-B`
-    * `en-AU-Standard-C`
-    * `en-AU-Standard-D`
-* Valid Indian English Values:
-    * `en-IN-Standard-A`
-    * `en-IN-Standard-B`
-    * `en-IN-Standard-C`
-    * `en-IN-Standard-D`
-* Valid UK English Values:
-    * `en-GB-Standard-A`
-    * `en-GB-Standard-B`
-    * `en-GB-Standard-C`
-    * `en-GB-Standard-D`
-    * `en-GB-Standard-F`
+Users can set a custom voice that is used just for their TTS commands with `!set tts voice <ttsVoice>`.  To see samples of some of the various voices that are available, check out the <a href="https://cloud.google.com/text-to-speech/docs/voices">Google Cloud TTS Voices Page</a>.
+
 * Valid US English Values:
-    * `en-US-Standard-B`
-    * `en-US-Standard-C`
-    * `en-US-Standard-D`
-    * `en-US-Standard-E`
-    * `en-US-Standard-G`
-    * `en-US-Standard-H`
-    * `en-US-Standard-I`
-    * `en-US-Standard-J`
+    * Google Cloud TTS
+        * `en-US-Standard-B`
+        * `en-US-Standard-C`
+        * `en-US-Standard-D`
+        * `en-US-Standard-E`
+        * `en-US-Standard-G`
+        * `en-US-Standard-H`
+        * `en-US-Standard-I`
+        * `en-US-Standard-J`
+    * Amazon Polly
+        * `Ivy`
+        * `Joanna`
+        * `Kendra`
+        * `Kimberly`
+        * `Salli`
+        * `Joey`
+        * `Justin`
+        * `Matthew`
+* Valid UK English Values:
+    * Google Cloud TTS
+        * `en-GB-Standard-A`
+        * `en-GB-Standard-B`
+        * `en-GB-Standard-C`
+        * `en-GB-Standard-D`
+        * `en-GB-Standard-F`
+    * Amazon Polly
+        * `Amy`
+        * `Emma`
+        * `Brian`
+* Valid Australian English Values:
+    * Google Cloud TTS
+        * `en-AU-Standard-A`
+        * `en-AU-Standard-B`
+        * `en-AU-Standard-C`
+        * `en-AU-Standard-D`
+    * Amazon Polly
+        * `Nicole`
+        * `Olivia`
+        * `Russell`
+* Valid Indian English Values:
+    * Google Could TTS
+        * `en-IN-Standard-A`
+        * `en-IN-Standard-B`
+        * `en-IN-Standard-C`
+        * `en-IN-Standard-D`
+    * Amazon Polly
+        * `Aditi`
+        * `Raveena`
+
+### Supported TTS pitches
+
+Users can set a custom pitch that is used just for their TTS commands with `!set tts pitch <value>`.
+
+* `x-low`
+* `low`
+* `medium`
+* `high`
+* `x-high`
