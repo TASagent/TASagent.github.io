@@ -11,6 +11,7 @@ TASagentPuppet features a few powers specifically for Moderators
 
 * `!replay` - Replay the last notification event
 * `!replay <id>` - Replay notification with the indicated id
+* `!skip` - Kills the audio for the current TTS or sound effect.
 
 ## User Permissions
 
