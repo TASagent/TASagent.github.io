@@ -89,7 +89,7 @@ A number of features exist that allow you to personalize your TTS voice
 
 ### Supported TTS voices
 
-Users can set a custom voice that is used just for their TTS commands with `!set tts voice <ttsVoice>`.  To hear a sample of any voice saying `!tts Hello, my name is <name>.  rrrrrrrrrrrrrrrrrrrrrrrrrrrrrr`, simply click on corresponding name below.
+Users can set a custom voice that is used just for their TTS commands with `!set tts voice <ttsVoice>`.  To hear a sample of any voice saying `!tts Hello, my name is <name>.  This is a test *with emphasis* (and a whisper). rrrrrrrrrrrrrrrrrrrrrrrrrrrrrr`, simply click on corresponding name below.
 
 * Valid US English Values:
     * Google Cloud TTS
@@ -121,6 +121,7 @@ Users can set a custom voice that is used just for their TTS commands with `!set
         * [`Amy`](../assets/Amy_Sample.mp3)
         * [`Emma`](../assets/Emma_Sample.mp3)
         * [`Brian`](../assets/Brian_Sample.mp3)
+        * [`Geraint`](../assets/Geraint_Sample.mp3)
 * Valid Australian English Values:
     * Google Cloud TTS
         * [`en-AU-Standard-A`](../assets/en-AU-Standard-A_Sample.mp3)
