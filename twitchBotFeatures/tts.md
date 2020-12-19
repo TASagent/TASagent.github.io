@@ -129,7 +129,6 @@ Users can set a custom voice that is used just for their TTS commands with `!set
         * `en-AU-Standard-D`
     * Amazon Polly
         * `Nicole`
-        * `Olivia`
         * `Russell`
 * Valid Indian English Values:
     * Google Could TTS
@@ -138,7 +137,7 @@ Users can set a custom voice that is used just for their TTS commands with `!set
         * `en-IN-Standard-C`
         * `en-IN-Standard-D`
     * Amazon Polly
-        * `Aditi`
+        * [`Aditi`](../Assets/Aditi_Sample.mp3)
         * `Raveena`
 
 ### Supported TTS pitches
