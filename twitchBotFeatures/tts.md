@@ -89,18 +89,18 @@ A number of features exist that allow you to personalize your TTS voice
 
 ### Supported TTS voices
 
-Users can set a custom voice that is used just for their TTS commands with `!set tts voice <ttsVoice>`.  To see samples of some of the various voices that are available, check out the <a href="https://cloud.google.com/text-to-speech/docs/voices">Google Cloud TTS Voices Page</a>.
+Users can set a custom voice that is used just for their TTS commands with `!set tts voice <ttsVoice>`.  To hear a sample of any voice saying `!tts Hello, my name is <name>.  rrrrrrrrrrrrrrrrrrrrrrrrrrrrrr`, simply click on corresponding name below.
 
 * Valid US English Values:
     * Google Cloud TTS
-        * `en-US-Standard-B`
-        * `en-US-Standard-C`
-        * `en-US-Standard-D`
-        * `en-US-Standard-E`
-        * `en-US-Standard-G`
-        * `en-US-Standard-H`
-        * `en-US-Standard-I`
-        * `en-US-Standard-J`
+        * [`en-US-Standard-B`](../assets/en-US-Standard-B_Sample.mp3)
+        * [`en-US-Standard-C`](../assets/en-US-Standard-C_Sample.mp3)
+        * [`en-US-Standard-D`](../assets/en-US-Standard-D_Sample.mp3)
+        * [`en-US-Standard-E`](../assets/en-US-Standard-E_Sample.mp3)
+        * [`en-US-Standard-G`](../assets/en-US-Standard-G_Sample.mp3)
+        * [`en-US-Standard-H`](../assets/en-US-Standard-H_Sample.mp3)
+        * [`en-US-Standard-I`](../assets/en-US-Standard-I_Sample.mp3)
+        * [`en-US-Standard-J`](../assets/en-US-Standard-J_Sample.mp3)
     * Amazon Polly
         * [`Ivy`](../assets/Ivy_Sample.mp3)
         * [`Joanna`](../assets/Joanna_Sample.mp3)
@@ -112,30 +112,30 @@ Users can set a custom voice that is used just for their TTS commands with `!set
         * [`Matthew`](../assets/Matthew_Sample.mp3)
 * Valid UK English Values:
     * Google Cloud TTS
-        * `en-GB-Standard-A`
-        * `en-GB-Standard-B`
-        * `en-GB-Standard-C`
-        * `en-GB-Standard-D`
-        * `en-GB-Standard-F`
+        * [`en-GB-Standard-A`](../assets/en-GB-Standard-A_Sample.mp3)
+        * [`en-GB-Standard-B`](../assets/en-GB-Standard-B_Sample.mp3)
+        * [`en-GB-Standard-C`](../assets/en-GB-Standard-C_Sample.mp3)
+        * [`en-GB-Standard-D`](../assets/en-GB-Standard-D_Sample.mp3)
+        * [`en-GB-Standard-F`](../assets/en-GB-Standard-F_Sample.mp3)
     * Amazon Polly
         * [`Amy`](../assets/Amy_Sample.mp3)
         * [`Emma`](../assets/Emma_Sample.mp3)
         * [`Brian`](../assets/Brian_Sample.mp3)
 * Valid Australian English Values:
     * Google Cloud TTS
-        * `en-AU-Standard-A`
-        * `en-AU-Standard-B`
-        * `en-AU-Standard-C`
-        * `en-AU-Standard-D`
+        * [`en-AU-Standard-A`](../assets/en-AU-Standard-A_Sample.mp3)
+        * [`en-AU-Standard-B`](../assets/en-AU-Standard-B_Sample.mp3)
+        * [`en-AU-Standard-C`](../assets/en-AU-Standard-C_Sample.mp3)
+        * [`en-AU-Standard-D`](../assets/en-AU-Standard-D_Sample.mp3)
     * Amazon Polly
         * [`Nicole`](../assets/Nicole_Sample.mp3)
         * [`Russell`](../assets/Russell_Sample.mp3)
 * Valid Indian English Values:
     * Google Could TTS
-        * `en-IN-Standard-A`
-        * `en-IN-Standard-B`
-        * `en-IN-Standard-C`
-        * `en-IN-Standard-D`
+        * [`en-IN-Standard-A`](../assets/en-IN-Standard-A_Sample.mp3)
+        * [`en-IN-Standard-B`](../assets/en-IN-Standard-B_Sample.mp3)
+        * [`en-IN-Standard-C`](../assets/en-IN-Standard-C_Sample.mp3)
+        * [`en-IN-Standard-D`](../assets/en-IN-Standard-D_Sample.mp3)
     * Amazon Polly
         * [`Aditi`](../assets/Aditi_Sample.mp3)
         * [`Raveena`](../assets/Raveena_Sample.mp3)
