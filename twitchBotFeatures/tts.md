@@ -102,14 +102,14 @@ Users can set a custom voice that is used just for their TTS commands with `!set
         * `en-US-Standard-I`
         * `en-US-Standard-J`
     * Amazon Polly
-        * `Ivy`
-        * `Joanna`
-        * `Kendra`
-        * `Kimberly`
-        * `Salli`
-        * `Joey`
-        * `Justin`
-        * `Matthew`
+        * [`Ivy`](../assets/Ivy_Sample.mp3)
+        * [`Joanna`](../assets/Joanna_Sample.mp3)
+        * [`Kendra`](../assets/Kendra_Sample.mp3)
+        * [`Kimberly`](../assets/Kimberly_Sample.mp3)
+        * [`Salli`](../assets/Salli_Sample.mp3)
+        * [`Joey`](../assets/Joey_Sample.mp3)
+        * [`Justin`](../assets/Justin_Sample.mp3)
+        * [`Matthew`](../assets/Matthew_Sample.mp3)
 * Valid UK English Values:
     * Google Cloud TTS
         * `en-GB-Standard-A`
@@ -118,9 +118,9 @@ Users can set a custom voice that is used just for their TTS commands with `!set
         * `en-GB-Standard-D`
         * `en-GB-Standard-F`
     * Amazon Polly
-        * `Amy`
-        * `Emma`
-        * `Brian`
+        * [`Amy`](../assets/Amy_Sample.mp3)
+        * [`Emma`](../assets/Emma_Sample.mp3)
+        * [`Brian`](../assets/Brian_Sample.mp3)
 * Valid Australian English Values:
     * Google Cloud TTS
         * `en-AU-Standard-A`
@@ -128,8 +128,8 @@ Users can set a custom voice that is used just for their TTS commands with `!set
         * `en-AU-Standard-C`
         * `en-AU-Standard-D`
     * Amazon Polly
-        * `Nicole`
-        * `Russell`
+        * [`Nicole`](../assets/Nicole_Sample.mp3)
+        * [`Russell`](../assets/Russell_Sample.mp3)
 * Valid Indian English Values:
     * Google Could TTS
         * `en-IN-Standard-A`
@@ -137,8 +137,8 @@ Users can set a custom voice that is used just for their TTS commands with `!set
         * `en-IN-Standard-C`
         * `en-IN-Standard-D`
     * Amazon Polly
-        * [`Aditi`](../Assets/Aditi_Sample.mp3)
-        * `Raveena`
+        * [`Aditi`](../assets/Aditi_Sample.mp3)
+        * [`Raveena`](../assets/Raveena_Sample.mp3)
 
 ### Supported TTS pitches
 
