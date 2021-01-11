@@ -45,6 +45,7 @@ Admins alone can grant and revoke moderator permissions
 * `!set tts enabled` - Enables TTS
 * `!set tts disabled` - Disables TTS
 * `!set tts timeout <timeout>` -  Sets the per-user TTS timeout (in seconds)
+* `!set tts bitthreshold <value>` - Sets the bit cheer thereshold to trigger TTS
 
 ## Bot Management
 
