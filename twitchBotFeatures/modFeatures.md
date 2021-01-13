@@ -42,7 +42,7 @@ Admins alone can grant and revoke moderator permissions
 
 ### Sloppy Mode
 
-Sometimes chat gets a bit cheeky and starts dropping in unicode characters that look like exclamation points to pretend that this bot is ignoring commands.  You can shatter their dreams with SloppyMode.  In SloppyMode, the character `ǃ` (LATIN LETTER RETROFLEX CLICK) as well as anything with "Exclamation" in its unicode character description, will work to trigger commands.
+Sometimes chat gets a bit cheeky and starts dropping in unicode characters that look like exclamation points to pretend that this bot is ignoring commands.  You can shatter their dreams with SloppyMode.  In SloppyMode, the character `ǃ` (LATIN LETTER RETROFLEX CLICK), as well as anything with "Exclamation" in its unicode character description, will work to trigger commands.
 
 * `!sloppymode` - Toggles the current SloppyMode State
 * `!sloppymode <State>` - Sets the current SloppyMode State.  State can be `on` or `off`, though `enable`, `true`, and `activate` also work for `on`, and `disable`, `false`, and `deactivate` also work for `off`
