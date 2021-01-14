@@ -103,3 +103,5 @@
 | 2021-01-04 | SMW: Invictus                | Sekiro                     |                          |                          |        |
 | 2021-01-05 | SMW: Invictus                | Sekiro                     |                          |                          |        |
 | 2021-01-10 | Final Fantasy 7              |                            |                          |                          |        |
+| 2021-01-11 | Final Fantasy 7              |                            |                          |                          |        |
+| 2021-01-12 | Final Fantasy 7              |                            |                          |                          |        |

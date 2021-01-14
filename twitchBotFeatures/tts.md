@@ -64,7 +64,66 @@ TTS supports the inline insertion of sound effects, used like this: `!tts Hey, T
 
 ### A Link To The Past sound effects
 
-* `/yougotthething` - The classic "You Got The Thing" sound effect
+* `/itemfanfare` - The classic "You Got The Thing" item fanfare sound effect
+* `/yougotthething` - An alias for the classic "You Got The Thing" item fanfare sound effect
+
+### Final Fantasy 7 sound effects
+
+* `/ff7alarm` - Alarm sound effect
+* `/ff7battleswirl` - Intro battle swirl sound effect
+* `/ff7chest` - Chest opening sound effect
+* `/ff7chocobokweh` - Chocobo kweh sound effect
+* `/ff7chocobowark` - Chocobo wark sound effect
+* `/ff7chocobowark2` - Another chocobo wark sound effect
+* `/ff7drumroll` - Drum roll sound effect
+* `/ff7elevatording` - Elevator ding sound effect
+* `/ff7falling` - A falling sound effect
+* `/ff7founditem` - Item find sound effect
+* `/ff7heartbeat` - Heart beat sound effect
+* `/ff7hit` - Getting hit sound effect
+* `/ff7hop` - Hopping sound effect
+* `/ff7item` - Item use sound effect
+* `/ff7jump` - Jump sound effect
+* `/ff7kill` - Enemy kill sound effect
+* `/ff7limit` - Limit break charged sound effect
+* `/ff7menuaccept` - Accept menu sound effect
+* `/ff7menubuzzer` - Buzzer menu sound effect
+* `/ff7menucancel` - Cancel menu sound effect
+* `/ff7menuequip` - Equip menu sound effect
+* `/ff7menulearnlimit` - Learn limit break menu sound effect
+* `/ff7menumove` - Move menu sound effect
+* `/ff7menuset` - Set menu sound effect
+* `/ff7menuuse` - Item use menu sound effect
+* `/ff7notification` - Notification sound effect
+* `/ff7phsring` - PHS ringtone sound effect
+* `/ff7purchase` - Store purchase sound effect
+* `/ff7run` - Escape combat sound effect
+* `/ff7savepoint` - Savepoint activation sound effect
+* `/ff7scan` - Scan sound effect
+* `/ff7searching` - Rummaging sound effect
+* `/ff7chant0` - A Sephiroth chant sound effect
+* `/ff7chant1` - A Sephiroth chant sound effect
+* `/ff7chant2` - A Sephiroth chant sound effect
+* `/ff7chant3` - A Sephiroth chant sound effect
+* `/ff7chant4` - A Sephiroth chant sound effect
+* `/ff7chant5` - A Sephiroth chant sound effect
+* `/ff7slots` - Slot machine sound effect
+* `/ff7train` - Train sound effect
+* `/ff7trainhorn` - Train horn sound effect
+* `/ff7typing` - Typing sound effect
+* `/ff7victoryfanfare` - Victory fanfare sound effect
+
+Included are some convient aliases for the more noteworthy sounds
+
+* `/alarm` - An alias for the alarm sound effect
+* `/drumroll` - An alias for the drumroll sound effect
+* `/chant` - An alias for the most memorable part of the Sephiroth chant sound effect
+* `/longchant` - An alias for the two sequential chants, overlaid with proper timing
+* `/sephiroth` - An alias for the Sephiroth chant sound effect
+* `/victoryfanfare` - An alias for the victory fanfare sound effect
+* `/buzzer` - An alias for the buzzer sound effect
+* `/heartbeat` - An alias for the hearbeat sound effect
+* `/chocobo` - An alias for the chocobo wark sound effect
 
 ## TTS Effect Markup
 
