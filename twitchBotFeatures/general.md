@@ -6,3 +6,5 @@ TASagentPuppet features a few general commands
     * Aliases: `!commands`, `!man`
 
 * `!help <topic>` - Returns a specialized help message with information on the indicated topic
+
+* `!charinfo <c>` - Returns some helpful information about unicode character `c`
