@@ -209,3 +209,10 @@ Users can set a custom pitch that is used just for their TTS commands with `!set
 * `medium`
 * `high`
 * `x-high`
+
+### Supported TTS effects
+
+Users can set custom effects that are used just for their TTS commands with `!set tts effect <value>`.
+
+* `normal` - Restores the TTS voice to default behavior
+* `vocoded` - Vocodes the generated speech with noise for that creepy serial-killer vibe
