@@ -150,45 +150,45 @@ A number of features exist that allow you to personalize your TTS voice
 
 Users can set a custom voice that is used just for their TTS commands with `!set tts voice <ttsVoice>`.  To hear a sample of any voice saying `!tts Hello, my name is <name>.  This is a test *with emphasis* (and a whisper). rrrrrrrrrrrrrrrrrrrrrrrrrrrrrr`, simply click on corresponding name below.
 
-| Service | Dialect | Name | Example |
-|---------|---------|------|---------|
-|Google Cloud|US|`en-US-Standard-B`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-B_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-US-Standard-C`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-C_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-US-Standard-D`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-D_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-US-Standard-E`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-E_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-US-Standard-G`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-G_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-US-Standard-H`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-H_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-US-Standard-I`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-I_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-US-Standard-J`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-J_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|Amazon Polly|US|`Ivy`             |<audio controls style="height: 30px"><source src="../assets/Ivy_Sample.mp3"              type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`Joanna`          |<audio controls style="height: 30px"><source src="../assets/Joanna_Sample.mp3"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`Kendra`          |<audio controls style="height: 30px"><source src="../assets/Kendra_Sample.mp3"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`Kimberly`        |<audio controls style="height: 30px"><source src="../assets/Kimberly_Sample.mp3"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`Salli`           |<audio controls style="height: 30px"><source src="../assets/Salli_Sample.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`Joey`            |<audio controls style="height: 30px"><source src="../assets/Joey_Sample.mp3"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`Justin`          |<audio controls style="height: 30px"><source src="../assets/Justin_Sample.mp3"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`Matthew`         |<audio controls style="height: 30px"><source src="../assets/Matthew_Sample.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|Google Cloud|GB|`en-GB-Standard-A`|<audio controls style="height: 30px"><source src="../assets/en-GB-Standard-A_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-GB-Standard-B`|<audio controls style="height: 30px"><source src="../assets/en-GB-Standard-B_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-GB-Standard-C`|<audio controls style="height: 30px"><source src="../assets/en-GB-Standard-C_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-GB-Standard-D`|<audio controls style="height: 30px"><source src="../assets/en-GB-Standard-D_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-GB-Standard-F`|<audio controls style="height: 30px"><source src="../assets/en-GB-Standard-F_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|Amazon Polly|GB|`Amy`             |<audio controls style="height: 30px"><source src="../assets/Amy_Sample.mp3"              type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`Emma`            |<audio controls style="height: 30px"><source src="../assets/Emma_Sample.mp3"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`Brian`           |<audio controls style="height: 30px"><source src="../assets/Brian_Sample.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`Geraint`         |<audio controls style="height: 30px"><source src="../assets/Geraint_Sample.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|Google Cloud|AU|`en-AU-Standard-A`|<audio controls style="height: 30px"><source src="../assets/en-AU-Standard-A_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-AU-Standard-B`|<audio controls style="height: 30px"><source src="../assets/en-AU-Standard-B_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-AU-Standard-C`|<audio controls style="height: 30px"><source src="../assets/en-AU-Standard-C_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-AU-Standard-D`|<audio controls style="height: 30px"><source src="../assets/en-AU-Standard-D_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|Amazon Polly|AU|`Nicole`          |<audio controls style="height: 30px"><source src="../assets/Nicole_Sample.mp3"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`Russell`         |<audio controls style="height: 30px"><source src="../assets/Russell_Sample.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|Google Cloud|IN|`en-IN-Standard-A`|<audio controls style="height: 30px"><source src="../assets/en-IN-Standard-A_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-IN-Standard-B`|<audio controls style="height: 30px"><source src="../assets/en-IN-Standard-B_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-IN-Standard-C`|<audio controls style="height: 30px"><source src="../assets/en-IN-Standard-C_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`en-IN-Standard-D`|<audio controls style="height: 30px"><source src="../assets/en-IN-Standard-D_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|Amazon Polly|IN|`Aditi`           |<audio controls style="height: 30px"><source src="../assets/Aditi_Sample.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|            |  |`Raveena`         |<audio controls style="height: 30px"><source src="../assets/Raveena_Sample.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| Service | Name | Example |
+|---------|------|---------|
+|Google Cloud (US)|`en-US-Standard-B`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-B_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-US-Standard-C`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-C_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-US-Standard-D`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-D_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-US-Standard-E`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-E_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-US-Standard-G`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-G_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-US-Standard-H`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-H_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-US-Standard-I`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-I_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-US-Standard-J`|<audio controls style="height: 30px"><source src="../assets/en-US-Standard-J_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Amazon Polly (US)|`Ivy`             |<audio controls style="height: 30px"><source src="../assets/Ivy_Sample.mp3"              type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`Joanna`          |<audio controls style="height: 30px"><source src="../assets/Joanna_Sample.mp3"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`Kendra`          |<audio controls style="height: 30px"><source src="../assets/Kendra_Sample.mp3"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`Kimberly`        |<audio controls style="height: 30px"><source src="../assets/Kimberly_Sample.mp3"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`Salli`           |<audio controls style="height: 30px"><source src="../assets/Salli_Sample.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`Joey`            |<audio controls style="height: 30px"><source src="../assets/Joey_Sample.mp3"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`Justin`          |<audio controls style="height: 30px"><source src="../assets/Justin_Sample.mp3"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`Matthew`         |<audio controls style="height: 30px"><source src="../assets/Matthew_Sample.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Google Cloud (GB)|`en-GB-Standard-A`|<audio controls style="height: 30px"><source src="../assets/en-GB-Standard-A_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-GB-Standard-B`|<audio controls style="height: 30px"><source src="../assets/en-GB-Standard-B_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-GB-Standard-C`|<audio controls style="height: 30px"><source src="../assets/en-GB-Standard-C_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-GB-Standard-D`|<audio controls style="height: 30px"><source src="../assets/en-GB-Standard-D_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-GB-Standard-F`|<audio controls style="height: 30px"><source src="../assets/en-GB-Standard-F_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Amazon Polly (GB)|`Amy`             |<audio controls style="height: 30px"><source src="../assets/Amy_Sample.mp3"              type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`Emma`            |<audio controls style="height: 30px"><source src="../assets/Emma_Sample.mp3"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`Brian`           |<audio controls style="height: 30px"><source src="../assets/Brian_Sample.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`Geraint`         |<audio controls style="height: 30px"><source src="../assets/Geraint_Sample.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Google Cloud (AU)|`en-AU-Standard-A`|<audio controls style="height: 30px"><source src="../assets/en-AU-Standard-A_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-AU-Standard-B`|<audio controls style="height: 30px"><source src="../assets/en-AU-Standard-B_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-AU-Standard-C`|<audio controls style="height: 30px"><source src="../assets/en-AU-Standard-C_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-AU-Standard-D`|<audio controls style="height: 30px"><source src="../assets/en-AU-Standard-D_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Amazon Polly (AU)|`Nicole`          |<audio controls style="height: 30px"><source src="../assets/Nicole_Sample.mp3"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`Russell`         |<audio controls style="height: 30px"><source src="../assets/Russell_Sample.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Google Cloud (IN)|`en-IN-Standard-A`|<audio controls style="height: 30px"><source src="../assets/en-IN-Standard-A_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-IN-Standard-B`|<audio controls style="height: 30px"><source src="../assets/en-IN-Standard-B_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-IN-Standard-C`|<audio controls style="height: 30px"><source src="../assets/en-IN-Standard-C_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`en-IN-Standard-D`|<audio controls style="height: 30px"><source src="../assets/en-IN-Standard-D_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Amazon Polly (IN)|`Aditi`           |<audio controls style="height: 30px"><source src="../assets/Aditi_Sample.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                 |`Raveena`         |<audio controls style="height: 30px"><source src="../assets/Raveena_Sample.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 ### Supported TTS pitches
 
