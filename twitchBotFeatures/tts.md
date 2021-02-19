@@ -150,55 +150,45 @@ A number of features exist that allow you to personalize your TTS voice
 
 Users can set a custom voice that is used just for their TTS commands with `!set tts voice <ttsVoice>`.  To hear a sample of any voice saying `!tts Hello, my name is <name>.  This is a test *with emphasis* (and a whisper). rrrrrrrrrrrrrrrrrrrrrrrrrrrrrr`, simply click on corresponding name below.
 
-* Valid US English Values:
-    * Google Cloud TTS
-        * [`en-US-Standard-B`](../assets/en-US-Standard-B_Sample.mp3)
-        * [`en-US-Standard-C`](../assets/en-US-Standard-C_Sample.mp3)
-        * [`en-US-Standard-D`](../assets/en-US-Standard-D_Sample.mp3)
-        * [`en-US-Standard-E`](../assets/en-US-Standard-E_Sample.mp3)
-        * [`en-US-Standard-G`](../assets/en-US-Standard-G_Sample.mp3)
-        * [`en-US-Standard-H`](../assets/en-US-Standard-H_Sample.mp3)
-        * [`en-US-Standard-I`](../assets/en-US-Standard-I_Sample.mp3)
-        * [`en-US-Standard-J`](../assets/en-US-Standard-J_Sample.mp3)
-    * Amazon Polly
-        * [`Ivy`](../assets/Ivy_Sample.mp3)
-        * [`Joanna`](../assets/Joanna_Sample.mp3)
-        * [`Kendra`](../assets/Kendra_Sample.mp3)
-        * [`Kimberly`](../assets/Kimberly_Sample.mp3)
-        * [`Salli`](../assets/Salli_Sample.mp3)
-        * [`Joey`](../assets/Joey_Sample.mp3)
-        * [`Justin`](../assets/Justin_Sample.mp3)
-        * [`Matthew`](../assets/Matthew_Sample.mp3)
-* Valid UK English Values:
-    * Google Cloud TTS
-        * [`en-GB-Standard-A`](../assets/en-GB-Standard-A_Sample.mp3)
-        * [`en-GB-Standard-B`](../assets/en-GB-Standard-B_Sample.mp3)
-        * [`en-GB-Standard-C`](../assets/en-GB-Standard-C_Sample.mp3)
-        * [`en-GB-Standard-D`](../assets/en-GB-Standard-D_Sample.mp3)
-        * [`en-GB-Standard-F`](../assets/en-GB-Standard-F_Sample.mp3)
-    * Amazon Polly
-        * [`Amy`](../assets/Amy_Sample.mp3)
-        * [`Emma`](../assets/Emma_Sample.mp3)
-        * [`Brian`](../assets/Brian_Sample.mp3)
-        * [`Geraint`](../assets/Geraint_Sample.mp3)
-* Valid Australian English Values:
-    * Google Cloud TTS
-        * [`en-AU-Standard-A`](../assets/en-AU-Standard-A_Sample.mp3)
-        * [`en-AU-Standard-B`](../assets/en-AU-Standard-B_Sample.mp3)
-        * [`en-AU-Standard-C`](../assets/en-AU-Standard-C_Sample.mp3)
-        * [`en-AU-Standard-D`](../assets/en-AU-Standard-D_Sample.mp3)
-    * Amazon Polly
-        * [`Nicole`](../assets/Nicole_Sample.mp3)
-        * [`Russell`](../assets/Russell_Sample.mp3)
-* Valid Indian English Values:
-    * Google Could TTS
-        * [`en-IN-Standard-A`](../assets/en-IN-Standard-A_Sample.mp3)
-        * [`en-IN-Standard-B`](../assets/en-IN-Standard-B_Sample.mp3)
-        * [`en-IN-Standard-C`](../assets/en-IN-Standard-C_Sample.mp3)
-        * [`en-IN-Standard-D`](../assets/en-IN-Standard-D_Sample.mp3)
-    * Amazon Polly
-        * [`Aditi`](../assets/Aditi_Sample.mp3)
-        * [`Raveena`](../assets/Raveena_Sample.mp3)
+| Service | Dialect | Name | Example |
+|---------|---------|------|---------|
+|Google Cloud TTS|US|`en-US-Standard-B`|<audio controls><source src="../assets/en-US-Standard-B_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-US-Standard-C`|<audio controls><source src="../assets/en-US-Standard-C_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-US-Standard-D`|<audio controls><source src="../assets/en-US-Standard-D_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-US-Standard-E`|<audio controls><source src="../assets/en-US-Standard-E_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-US-Standard-G`|<audio controls><source src="../assets/en-US-Standard-G_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-US-Standard-H`|<audio controls><source src="../assets/en-US-Standard-H_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-US-Standard-I`|<audio controls><source src="../assets/en-US-Standard-I_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-US-Standard-J`|<audio controls><source src="../assets/en-US-Standard-J_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Amazon Polly    |US|`Ivy`             |<audio controls><source src="../assets/Ivy_Sample.mp3"              type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`Joanna`          |<audio controls><source src="../assets/Joanna_Sample.mp3"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`Kendra`          |<audio controls><source src="../assets/Kendra_Sample.mp3"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`Kimberly`        |<audio controls><source src="../assets/Kimberly_Sample.mp3"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`Salli`           |<audio controls><source src="../assets/Salli_Sample.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`Joey`            |<audio controls><source src="../assets/Joey_Sample.mp3"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`Justin`          |<audio controls><source src="../assets/Justin_Sample.mp3"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`Matthew`         |<audio controls><source src="../assets/Matthew_Sample.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Google Cloud TTS|GB|`en-GB-Standard-A`|<audio controls><source src="../assets/en-GB-Standard-A_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-GB-Standard-B`|<audio controls><source src="../assets/en-GB-Standard-B_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-GB-Standard-C`|<audio controls><source src="../assets/en-GB-Standard-C_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-GB-Standard-D`|<audio controls><source src="../assets/en-GB-Standard-D_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-GB-Standard-F`|<audio controls><source src="../assets/en-GB-Standard-F_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Amazon Polly    |GB|`Amy`             |<audio controls><source src="../assets/Amy_Sample.mp3"              type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`Emma`            |<audio controls><source src="../assets/Emma_Sample.mp3"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`Brian`           |<audio controls><source src="../assets/Brian_Sample.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`Geraint`         |<audio controls><source src="../assets/Geraint_Sample.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Google Cloud TTS|AU|`en-AU-Standard-A`|<audio controls><source src="../assets/en-AU-Standard-A_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-AU-Standard-B`|<audio controls><source src="../assets/en-AU-Standard-B_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-AU-Standard-C`|<audio controls><source src="../assets/en-AU-Standard-C_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-AU-Standard-D`|<audio controls><source src="../assets/en-AU-Standard-D_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Amazon Polly    |AU|`Nicole`          |<audio controls><source src="../assets/Nicole_Sample.mp3"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`Russell`         |<audio controls><source src="../assets/Russell_Sample.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Google Cloud TTS|IN|`en-IN-Standard-A`|<audio controls><source src="../assets/en-IN-Standard-A_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-IN-Standard-B`|<audio controls><source src="../assets/en-IN-Standard-B_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-IN-Standard-C`|<audio controls><source src="../assets/en-IN-Standard-C_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`en-IN-Standard-D`|<audio controls><source src="../assets/en-IN-Standard-D_Sample.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Amazon Polly    |IN|`Aditi`           |<audio controls><source src="../assets/Aditi_Sample.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|                |  |`Raveena`         |<audio controls><source src="../assets/Raveena_Sample.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 ### Supported TTS pitches
 
@@ -218,29 +208,35 @@ Users can set custom effects and effect chains that are used just for their TTS 
 
 A pitch shift can adjust the pitch of a TTS Voice higher or lower. Pitch shifts take the form `PitchShift <shift>`.
 
-* [`PitchShift 0.5`](../assets/Effects/PitchShift0.5.mp3)
-* [`PitchShift 0.75`](../assets/Effects/PitchShift0.75.mp3)
-* [Non-PitchShifted Reference](../assets/Effects/PitchShiftNone.mp3)
-* [`PitchShift 1.5`](../assets/Effects/PitchShift1.5.mp3)
-* [`PitchShift 2`](../assets/Effects/PitchShift2.mp3)
+| Command | Example |
+|---------|---------|
+|`PitchShift 0.5`          |<audio controls><source src="../assets/Effects/PitchShift0.5.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`PitchShift 0.75`         |<audio controls><source src="../assets/Effects/PitchShift0.75.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Non-PitchShifted Reference|<audio controls><source src="../assets/Effects/PitchShiftNone.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`PitchShift 1.5`          |<audio controls><source src="../assets/Effects/PitchShift1.5.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`PitchShift 2`            |<audio controls><source src="../assets/Effects/PitchShift2.mp3"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 #### Chorus Effect
 
 A chorus effect can make the TTS voice sound like a chorus of several. A hivemind, of sorts.
 
-* [`Chorus`](../assets/Effects/ChorusEffect.mp3)
-* [Non-Chorus Reference](../assets/Effects/ChorusEffectNone.mp3)
+| Command | Example |
+|---------|---------|
+|`Chorus`            |<audio controls><source src="../assets/Effects/ChorusEffect.mp3"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Non-Chorus Reference|<audio controls><source src="../assets/Effects/ChorusEffectNone.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 #### Noise Vocoding
 
 Noise Vocoding can make the TTS voice sound like a creepy serial-killer. Noise vocoding takes the form `Vocode <band>`. The more bands that are used, the more clear the voice will be.
 
-* [`Vocode 5`](../assets/Effects/Vocoding5Band.mp3)
-* [`Vocode 10`](../assets/Effects/Vocoding10Band.mp3)
-* [`Vocode 20`](../assets/Effects/Vocoding20Band.mp3)
-* [`Vocode 30`](../assets/Effects/Vocoding30Band.mp3)
-* [`Vocode 40`](../assets/Effects/Vocoding40Band.mp3)
-* [Non-Vocoded Reference](../assets/Effects/VocodingNone.mp3)
+| Command | Example |
+|---------|---------|
+|`Vocode 5`           |<audio controls><source src="../assets/Effects/Vocoding5Band.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Vocode 10`          |<audio controls><source src="../assets/Effects/Vocoding10Band.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Vocode 20`          |<audio controls><source src="../assets/Effects/Vocoding20Band.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Vocode 30`          |<audio controls><source src="../assets/Effects/Vocoding30Band.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Vocode 40`          |<audio controls><source src="../assets/Effects/Vocoding40Band.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Non-Vocoded Reference|<audio controls><source src="../assets/Effects/VocodingNone.mp3"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 #### Frequency Modulation
 
@@ -248,16 +244,16 @@ Frequency modulation can make the TTS voice sound like its pitch is wavering bac
 
 | Command | Example |
 |---------|---------|
-| `Modulation 2 10`        | <audio controls> <source src="../assets/Effects/Modulation2_10.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
-| `Modulation 2 50`        | <audio controls> <source src="../assets/Effects/Modulation2_50.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
-| `Modulation 2 200`       | <audio controls> <source src="../assets/Effects/Modulation2_200.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
-| `Modulation 8 10`        | <audio controls> <source src="../assets/Effects/Modulation8_10.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
-| `Modulation 8 50`        | <audio controls> <source src="../assets/Effects/Modulation8_50.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
-| `Modulation 8 200`       | <audio controls> <source src="../assets/Effects/Modulation8_200.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
-| `Modulation 32 10`       | <audio controls> <source src="../assets/Effects/Modulation32_10.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
-| `Modulation 32 50`       | <audio controls> <source src="../assets/Effects/Modulation32_50.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
-| `Modulation 32 200`      | <audio controls> <source src="../assets/Effects/Modulation32_200.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
-| Non-Modulated Reference  | <audio controls> <source src="../assets/Effects/ModulationNone.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
+|`Modulation 2 10`      |<audio controls><source src="../assets/Effects/Modulation2_10.mp3"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Modulation 2 50`      |<audio controls><source src="../assets/Effects/Modulation2_50.mp3"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Modulation 2 200`     |<audio controls><source src="../assets/Effects/Modulation2_200.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Modulation 8 10`      |<audio controls><source src="../assets/Effects/Modulation8_10.mp3"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Modulation 8 50`      |<audio controls><source src="../assets/Effects/Modulation8_50.mp3"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Modulation 8 200`     |<audio controls><source src="../assets/Effects/Modulation8_200.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Modulation 32 10`     |<audio controls><source src="../assets/Effects/Modulation32_10.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Modulation 32 50`     |<audio controls><source src="../assets/Effects/Modulation32_50.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Modulation 32 200`    |<audio controls><source src="../assets/Effects/Modulation32_200.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Non-Modulated Reference|<audio controls><source src="../assets/Effects/ModulationNone.mp3"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 #### Reverb Effects
 
@@ -265,17 +261,17 @@ Reverb can make the TTS voice sound like it's emanating from a different environ
 
 | Command | Example |
 |---------|---------|
-| `Reverb Mild`         | <audio controls> <source src="../assets/Effects/ReverbMildReverb.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
-| `Reverb Medium`       | <audio controls> <source src="../assets/Effects/ReverbMediumReverb.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
-| `Reverb Strong`       | <audio controls> <source src="../assets/Effects/ReverbStrongReverb.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
-| `Reverb Echo`         | <audio controls> <source src="../assets/Effects/ReverbEcho.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
-| `Reverb StrongEcho`   | <audio controls> <source src="../assets/Effects/ReverbStrongEcho.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
-| `Reverb CrappySpeaker`| <audio controls> <source src="../assets/Effects/ReverbCrappySpeaker.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
-| `Reverb SmallSpeaker` | <audio controls> <source src="../assets/Effects/ReverbSmallSpeaker.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
-| `Reverb InsideEar`    | <audio controls> <source src="../assets/Effects/ReverbInsideEar.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
-| `Reverb InsideBox`    | <audio controls> <source src="../assets/Effects/ReverbInsideBox.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
-| `Reverb VeryWarm`     | <audio controls> <source src="../assets/Effects/ReverbVeryWarm.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
-| No-Reverb Reference   | <audio controls> <source src="../assets/Effects/ReverbNone.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
+|`Reverb Mild`         |<audio controls><source src="../assets/Effects/ReverbMildReverb.mp3"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Reverb Medium`       |<audio controls><source src="../assets/Effects/ReverbMediumReverb.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Reverb Strong`       |<audio controls><source src="../assets/Effects/ReverbStrongReverb.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Reverb Echo`         |<audio controls><source src="../assets/Effects/ReverbEcho.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Reverb StrongEcho`   |<audio controls><source src="../assets/Effects/ReverbStrongEcho.mp3"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Reverb CrappySpeaker`|<audio controls><source src="../assets/Effects/ReverbCrappySpeaker.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Reverb SmallSpeaker` |<audio controls><source src="../assets/Effects/ReverbSmallSpeaker.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Reverb InsideEar`    |<audio controls><source src="../assets/Effects/ReverbInsideEar.mp3"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Reverb InsideBox`    |<audio controls><source src="../assets/Effects/ReverbInsideBox.mp3"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`Reverb VeryWarm`     |<audio controls><source src="../assets/Effects/ReverbVeryWarm.mp3"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|No-Reverb Reference   |<audio controls><source src="../assets/Effects/ReverbNone.mp3"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 #### Frequency Shift
 
@@ -283,24 +279,26 @@ Frequency shift effects apply a linear shift to the frequencies making up the TT
 
 | Command | Example |
 |---------|---------|
-| `FrequencyShift -200`  | <audio controls> <source src="../assets/Effects/FreqShiftn200Hz.mp3" type="audio/mp3">  Audio Tag Unsupported. </audio> |
-| `FrequencyShift -100`  | <audio controls> <source src="../assets/Effects/FreqShiftn100Hz.mp3" type="audio/mp3">  Audio Tag Unsupported. </audio> |
-| `FrequencyShift -50`   | <audio controls> <source src="../assets/Effects/FreqShiftn50Hz.mp3" type="audio/mp3">   Audio Tag Unsupported. </audio> |
-| `FrequencyShift -20`   | <audio controls> <source src="../assets/Effects/FreqShiftn20Hz.mp3" type="audio/mp3">   Audio Tag Unsupported. </audio> |
-| `FrequencyShift -10`   | <audio controls> <source src="../assets/Effects/FreqShiftn10Hz.mp3" type="audio/mp3">   Audio Tag Unsupported. </audio> |
-| Non-Shifted Reference  | <audio controls> <source src="../assets/Effects/FreqShiftNoShift.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
-| `FrequencyShift 10`    | <audio controls> <source src="../assets/Effects/FreqShift10Hz.mp3" type="audio/mp3">    Audio Tag Unsupported. </audio> |
-| `FrequencyShift 20`    | <audio controls> <source src="../assets/Effects/FreqShift20Hz.mp3" type="audio/mp3">    Audio Tag Unsupported. </audio> |
-| `FrequencyShift 50`    | <audio controls> <source src="../assets/Effects/FreqShift50Hz.mp3" type="audio/mp3">    Audio Tag Unsupported. </audio> |
-| `FrequencyShift 100`   | <audio controls> <source src="../assets/Effects/FreqShift100Hz.mp3" type="audio/mp3">   Audio Tag Unsupported. </audio> |
-| `FrequencyShift 200`   | <audio controls> <source src="../assets/Effects/FreqShift200Hz.mp3" type="audio/mp3">   Audio Tag Unsupported. </audio> |
+|`FrequencyShift -200`|<audio controls><source src="../assets/Effects/FreqShiftn200Hz.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`FrequencyShift -100`|<audio controls><source src="../assets/Effects/FreqShiftn100Hz.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`FrequencyShift -50` |<audio controls><source src="../assets/Effects/FreqShiftn50Hz.mp3"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`FrequencyShift -20` |<audio controls><source src="../assets/Effects/FreqShiftn20Hz.mp3"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`FrequencyShift -10` |<audio controls><source src="../assets/Effects/FreqShiftn10Hz.mp3"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|Non-Shifted Reference|<audio controls><source src="../assets/Effects/FreqShiftNoShift.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`FrequencyShift 10`  |<audio controls><source src="../assets/Effects/FreqShift10Hz.mp3"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`FrequencyShift 20`  |<audio controls><source src="../assets/Effects/FreqShift20Hz.mp3"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`FrequencyShift 50`  |<audio controls><source src="../assets/Effects/FreqShift50Hz.mp3"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`FrequencyShift 100` |<audio controls><source src="../assets/Effects/FreqShift100Hz.mp3"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`FrequencyShift 200` |<audio controls><source src="../assets/Effects/FreqShift200Hz.mp3"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 #### Chaining Effects
 
 You can chain together multiple effects by just adding a comma between them.  Effects are execute left to right.
 
-* [`NoiseVocodeEffect 30, Chorus, PitchShift 1.4`](../assets/Effects/DemonBees.mp3)
-* [`PitchShift 0.8, Reverb InsideBox`](../assets/Effects/GeenieBox.mp3)
+| Command | Example |
+|---------|---------|
+|`NoiseVocodeEffect 30, Chorus, PitchShift 1.4`|<audio controls><source src="../assets/Effects/DemonBees.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`PitchShift 0.8, Reverb InsideBox`            |<audio controls><source src="../assets/Effects/GeenieBox.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 #### Removing Effects
 
