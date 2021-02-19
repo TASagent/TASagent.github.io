@@ -277,8 +277,8 @@ Reverb can make the TTS voice sound like it's emanating from a different environ
 
 Frequency shift effects apply a linear shift to the frequencies making up the TTS voice, which can create unusual patterns of interference.  Frequency shifts take the form `FrequencyShift <shift>`.
 
-* [`FrequencyShift -200`](../assets/Effects/FreqShiftn200Hz.mp3)
-* [`FrequencyShift -100`](../assets/Effects/FreqShiftn100Hz.mp3)
+* [`FrequencyShift -200`](../assets/Effects/FreqShiftn200Hz.mp3) <audio controls> <source src="../assets/Effects/FreqShiftn200Hz.mp3" type="audio/mp3"> Your browser does not support the audio tag. </audio> 
+* [`FrequencyShift -100`](../assets/Effects/FreqShiftn100Hz.mp3)  <audio controls> <source src="../assets/Effects/FreqShiftn100Hz.mp3" type="audio/mp3"> Your browser does not support the audio tag. </audio> 
 * [`FrequencyShift -50`](../assets/Effects/FreqShiftn50Hz.mp3)
 * [`FrequencyShift -20`](../assets/Effects/FreqShiftn20Hz.mp3)
 * [`FrequencyShift -10`](../assets/Effects/FreqShiftn10Hz.mp3)
