@@ -210,9 +210,80 @@ Users can set a custom pitch that is used just for their TTS commands with `!set
 * `high`
 * `x-high`
 
-### Supported TTS effects
+### TTS effects
 
-Users can set custom effects that are used just for their TTS commands with `!set tts effect <value>`.
+Users can set custom effects and effect chains that are used just for their TTS commands with `!set tts effect <Effects>`.
 
-* `normal` - Restores the TTS voice to default behavior
-* `vocoded` - Vocodes the generated speech with noise for that creepy serial-killer vibe
+#### Pitch Shift
+
+A pitch shift can adjust the pitch of a TTS Voice higher or lower. Pitch shifts take the form `PitchShift <shift>`.
+
+* [`PitchShift 0.5`](../assets/Effects/PitchShift0.5.mp3)
+* [`PitchShift 0.75`](../assets/Effects/PitchShift0.75.mp3)
+* [Non-PitchShifted Reference](../assets/Effects/PitchShiftNone.mp3)
+* [`PitchShift 1.5`](../assets/Effects/PitchShift1.5.mp3)
+* [`PitchShift 2`](../assets/Effects/PitchShift2.mp3)
+
+#### Chorus Effect
+
+A chorus effect can make the TTS voice sound like a chorus of several. A hivemind, of sorts.
+
+* [`Chorus`](../assets/Effects/ChorusEffect.mp3)
+* [Non-Chorus Reference](../assets/Effects/ChorusEffectNone.mp3)
+
+#### Noise Vocoding
+
+Noise Vocoding can make the TTS voice sound like a creepy serial-killer. Noise vocoding takes the form `Vocode <band>`. The more bands that are used, the more clear the voice will be.
+
+* [`Vocode 5`](../assets/Effects/Vocoding5Band.mp3)
+* [`Vocode 10`](../assets/Effects/Vocoding10Band.mp3)
+* [`Vocode 20`](../assets/Effects/Vocoding20Band.mp3)
+* [`Vocode 30`](../assets/Effects/Vocoding30Band.mp3)
+* [`Vocode 40`](../assets/Effects/Vocoding40Band.mp3)
+* [Non-Vocoded Reference](../assets/Effects/VocodingNone.mp3)
+
+#### Frequency Modulation
+
+Frequency modulation can make the TTS voice sound like its pitch is wavering back and forth.  Frequency modulation takes the form `Modulation <depth> <rate>`, where the depth determines the degree of the modulation, and the rate determines the speed of the modulation.
+
+* [`Modulation 2 10`](../assets/Effects/Modulation2_10.mp3)
+* [`Modulation 2 50`](../assets/Effects/Modulation2_50.mp3)
+* [`Modulation 2 200`](../assets/Effects/Modulation2_200.mp3)
+* [`Modulation 8 10`](../assets/Effects/Modulation8_10.mp3)
+* [`Modulation 8 50`](../assets/Effects/Modulation8_50.mp3)
+* [`Modulation 8 200`](../assets/Effects/Modulation8_200.mp3)
+* [`Modulation 32 10`](../assets/Effects/Modulation32_10.mp3)
+* [`Modulation 32 50`](../assets/Effects/Modulation32_50.mp3)
+* [`Modulation 32 200`](../assets/Effects/Modulation32_200.mp3)
+* [Non-Modulated Reference](../assets/Effects/ModulationNone.mp3)
+
+#### Reverb Effects
+
+Reverb can make the TTS voice sound like it's emanating from a different environment.  Reverb is somewhat nuanced, so a number of pre-defined options are available. Reverb takes the form `Reverb <effect>`, where effect is one of the options below.
+
+* [`Reverb Mild`](../assets/Effects/ReverbMildReverb.mp3)
+* [`Reverb Medium`](../assets/Effects/ReverbMediumReverb.mp3)
+* [`Reverb Strong`](../assets/Effects/ReverbStrongReverb.mp3)
+* [`Reverb Echo`](../assets/Effects/ReverbEcho.mp3)
+* [`Reverb StrongEcho`](../assets/Effects/ReverbStrongEcho.mp3)
+* [`Reverb CrappySpeaker`](../assets/Effects/ReverbCrappySpeaker.mp3)
+* [`Reverb SmallSpeaker`](../assets/Effects/ReverbSmallSpeaker.mp3)
+* [`Reverb InsideEar`](../assets/Effects/ReverbInsideEar.mp3)
+* [`Reverb InsideBox`](../assets/Effects/ReverbInsideBox.mp3)
+* [`Reverb VeryWarm`](../assets/Effects/ReverbVeryWarm.mp3)
+* [No-Reverb Reference](../assets/Effects/ReverbNone.mp3)
+
+#### Frequency Shift
+
+Frequency shift effects apply a linear shift to the frequencies making up the TTS voice, which can create unusual patterns of interference.  Frequency shifts take the form `FrequencyShift <shift>`.
+
+* [`FrequencyShift 10`](../assets/Effects/FreqShift10Hz.mp3)
+* [`FrequencyShift 20`](../assets/Effects/FreqShift20Hz.mp3)
+* [`FrequencyShift 50`](../assets/Effects/FreqShift50Hz.mp3)
+* [`FrequencyShift 100`](../assets/Effects/FreqShift100Hz.mp3)
+* [`FrequencyShift 200`](../assets/Effects/FreqShift200Hz.mp3)
+* [Non-Shifted Reference](../assets/Effects/FreqShiftNone.mp3)
+
+#### Removing Effects
+
+To remove any effect from your TTS voice, use `!set tts effect Normal`.
