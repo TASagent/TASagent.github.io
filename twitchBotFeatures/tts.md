@@ -246,48 +246,54 @@ Noise Vocoding can make the TTS voice sound like a creepy serial-killer. Noise v
 
 Frequency modulation can make the TTS voice sound like its pitch is wavering back and forth.  Frequency modulation takes the form `Modulation <depth> <rate>`, where the depth determines the degree of the modulation, and the rate determines the speed of the modulation.
 
-* [`Modulation 2 10`](../assets/Effects/Modulation2_10.mp3)
-* [`Modulation 2 50`](../assets/Effects/Modulation2_50.mp3)
-* [`Modulation 2 200`](../assets/Effects/Modulation2_200.mp3)
-* [`Modulation 8 10`](../assets/Effects/Modulation8_10.mp3)
-* [`Modulation 8 50`](../assets/Effects/Modulation8_50.mp3)
-* [`Modulation 8 200`](../assets/Effects/Modulation8_200.mp3)
-* [`Modulation 32 10`](../assets/Effects/Modulation32_10.mp3)
-* [`Modulation 32 50`](../assets/Effects/Modulation32_50.mp3)
-* [`Modulation 32 200`](../assets/Effects/Modulation32_200.mp3)
-* [Non-Modulated Reference](../assets/Effects/ModulationNone.mp3)
+| Command | Example |
+|---------|---------|
+| `Modulation 2 10`        | <audio controls> <source src="../assets/Effects/Modulation2_10.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
+| `Modulation 2 50`        | <audio controls> <source src="../assets/Effects/Modulation2_50.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
+| `Modulation 2 200`       | <audio controls> <source src="../assets/Effects/Modulation2_200.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
+| `Modulation 8 10`        | <audio controls> <source src="../assets/Effects/Modulation8_10.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
+| `Modulation 8 50`        | <audio controls> <source src="../assets/Effects/Modulation8_50.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
+| `Modulation 8 200`       | <audio controls> <source src="../assets/Effects/Modulation8_200.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
+| `Modulation 32 10`       | <audio controls> <source src="../assets/Effects/Modulation32_10.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
+| `Modulation 32 50`       | <audio controls> <source src="../assets/Effects/Modulation32_50.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
+| `Modulation 32 200`      | <audio controls> <source src="../assets/Effects/Modulation32_200.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
+| Non-Modulated Reference  | <audio controls> <source src="../assets/Effects/ModulationNone.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio>  |
 
 #### Reverb Effects
 
 Reverb can make the TTS voice sound like it's emanating from a different environment.  Reverb is somewhat nuanced, so a number of pre-defined options are available. Reverb takes the form `Reverb <effect>`, where effect is one of the options below.
 
-* [`Reverb Mild`](../assets/Effects/ReverbMildReverb.mp3)
-* [`Reverb Medium`](../assets/Effects/ReverbMediumReverb.mp3)
-* [`Reverb Strong`](../assets/Effects/ReverbStrongReverb.mp3)
-* [`Reverb Echo`](../assets/Effects/ReverbEcho.mp3)
-* [`Reverb StrongEcho`](../assets/Effects/ReverbStrongEcho.mp3)
-* [`Reverb CrappySpeaker`](../assets/Effects/ReverbCrappySpeaker.mp3)
-* [`Reverb SmallSpeaker`](../assets/Effects/ReverbSmallSpeaker.mp3)
-* [`Reverb InsideEar`](../assets/Effects/ReverbInsideEar.mp3)
-* [`Reverb InsideBox`](../assets/Effects/ReverbInsideBox.mp3)
-* [`Reverb VeryWarm`](../assets/Effects/ReverbVeryWarm.mp3)
-* [No-Reverb Reference](../assets/Effects/ReverbNone.mp3)
+| Command | Example |
+|---------|---------|
+| `Reverb Mild`         | <audio controls> <source src="../assets/Effects/ReverbMildReverb.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
+| `Reverb Medium`       | <audio controls> <source src="../assets/Effects/ReverbMediumReverb.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
+| `Reverb Strong`       | <audio controls> <source src="../assets/Effects/ReverbStrongReverb.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
+| `Reverb Echo`         | <audio controls> <source src="../assets/Effects/ReverbEcho.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
+| `Reverb StrongEcho`   | <audio controls> <source src="../assets/Effects/ReverbStrongEcho.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
+| `Reverb CrappySpeaker`| <audio controls> <source src="../assets/Effects/ReverbCrappySpeaker.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
+| `Reverb SmallSpeaker` | <audio controls> <source src="../assets/Effects/ReverbSmallSpeaker.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
+| `Reverb InsideEar`    | <audio controls> <source src="../assets/Effects/ReverbInsideEar.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
+| `Reverb InsideBox`    | <audio controls> <source src="../assets/Effects/ReverbInsideBox.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
+| `Reverb VeryWarm`     | <audio controls> <source src="../assets/Effects/ReverbVeryWarm.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
+| No-Reverb Reference   | <audio controls> <source src="../assets/Effects/ReverbNone.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
 
 #### Frequency Shift
 
 Frequency shift effects apply a linear shift to the frequencies making up the TTS voice, which can create unusual patterns of interference.  Frequency shifts take the form `FrequencyShift <shift>`.
 
-* `FrequencyShift -200` <audio controls> <source src="../assets/Effects/FreqShiftn200Hz.mp3" type="audio/mp3"> Your browser does not support the audio tag. </audio> 
-* `FrequencyShift -100` <audio controls> <source src="../assets/Effects/FreqShiftn100Hz.mp3" type="audio/mp3"> Your browser does not support the audio tag. </audio> 
-* `FrequencyShift -50` <audio controls> <source src="../assets/Effects/FreqShiftn50Hz.mp3" type="audio/mp3"> Your browser does not support the audio tag. </audio>
-* `FrequencyShift -20` <audio controls> <source src="../assets/Effects/FreqShiftn20Hz.mp3" type="audio/mp3"> Your browser does not support the audio tag. </audio>
-* `FrequencyShift -10` <audio controls> <source src="../assets/Effects/FreqShiftn10Hz.mp3" type="audio/mp3"> Your browser does not support the audio tag. </audio>
-* Non-Shifted Reference <audio controls> <source src="../assets/Effects/FreqShiftNoShift.mp3" type="audio/mp3"> Your browser does not support the audio tag. </audio>
-* `FrequencyShift 10` <audio controls> <source src="../assets/Effects/FreqShift10Hz.mp3" type="audio/mp3"> Your browser does not support the audio tag. </audio>
-* `FrequencyShift 20` <audio controls> <source src="../assets/Effects/FreqShift20Hz.mp3" type="audio/mp3"> Your browser does not support the audio tag. </audio>
-* `FrequencyShift 50` <audio controls> <source src="../assets/Effects/FreqShift50Hz.mp3" type="audio/mp3"> Your browser does not support the audio tag. </audio>
-* `FrequencyShift 100` <audio controls> <source src="../assets/Effects/FreqShift100Hz.mp3" type="audio/mp3"> Your browser does not support the audio tag. </audio>
-* `FrequencyShift 200` <audio controls> <source src="../assets/Effects/FreqShift200Hz.mp3" type="audio/mp3"> Your browser does not support the audio tag. </audio>
+| Command | Example |
+|---------|---------|
+| `FrequencyShift -200`  | <audio controls> <source src="../assets/Effects/FreqShiftn200Hz.mp3" type="audio/mp3">  Audio Tag Unsupported. </audio> |
+| `FrequencyShift -100`  | <audio controls> <source src="../assets/Effects/FreqShiftn100Hz.mp3" type="audio/mp3">  Audio Tag Unsupported. </audio> |
+| `FrequencyShift -50`   | <audio controls> <source src="../assets/Effects/FreqShiftn50Hz.mp3" type="audio/mp3">   Audio Tag Unsupported. </audio> |
+| `FrequencyShift -20`   | <audio controls> <source src="../assets/Effects/FreqShiftn20Hz.mp3" type="audio/mp3">   Audio Tag Unsupported. </audio> |
+| `FrequencyShift -10`   | <audio controls> <source src="../assets/Effects/FreqShiftn10Hz.mp3" type="audio/mp3">   Audio Tag Unsupported. </audio> |
+| Non-Shifted Reference  | <audio controls> <source src="../assets/Effects/FreqShiftNoShift.mp3" type="audio/mp3"> Audio Tag Unsupported. </audio> |
+| `FrequencyShift 10`    | <audio controls> <source src="../assets/Effects/FreqShift10Hz.mp3" type="audio/mp3">    Audio Tag Unsupported. </audio> |
+| `FrequencyShift 20`    | <audio controls> <source src="../assets/Effects/FreqShift20Hz.mp3" type="audio/mp3">    Audio Tag Unsupported. </audio> |
+| `FrequencyShift 50`    | <audio controls> <source src="../assets/Effects/FreqShift50Hz.mp3" type="audio/mp3">    Audio Tag Unsupported. </audio> |
+| `FrequencyShift 100`   | <audio controls> <source src="../assets/Effects/FreqShift100Hz.mp3" type="audio/mp3">   Audio Tag Unsupported. </audio> |
+| `FrequencyShift 200`   | <audio controls> <source src="../assets/Effects/FreqShift200Hz.mp3" type="audio/mp3">   Audio Tag Unsupported. </audio> |
 
 #### Chaining Effects
 
