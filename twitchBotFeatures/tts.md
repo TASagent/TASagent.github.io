@@ -148,7 +148,7 @@ A number of features exist that allow you to personalize your TTS voice
 
 ### Supported TTS voices
 
-Users can set a custom voice that is used just for their TTS commands with `!set tts voice <ttsVoice>`.  To hear a sample of any voice saying `!tts Hello, my name is <name>.  This is a test *with emphasis* (and a whisper). rrrrrrrrrrrrrrrrrrrrrrrrrrrrrr`, simply click on corresponding name below.
+Users can set a custom voice that is used just for their TTS commands with `!set tts voice <ttsVoice>`.  To hear a sample of any voice saying `!tts Hello, my name is <name>.  This is a test *with emphasis* (and a whisper). rrrrrrrrrrrrrrrrrrrrrrrrrrrrrr`, simply click play next to the corresponding name below.
 
 | Service | Name | Example |
 |---------|------|---------|
@@ -302,4 +302,4 @@ You can chain together multiple effects by just adding a comma between them.  Ef
 
 #### Removing Effects
 
-To remove any effect from your TTS voice, use `!set tts effect Normal`.
+To remove all effects from your TTS voice and restore it to default behavior, use `!set tts effect Normal`.
