@@ -277,12 +277,24 @@ Reverb can make the TTS voice sound like it's emanating from a different environ
 
 Frequency shift effects apply a linear shift to the frequencies making up the TTS voice, which can create unusual patterns of interference.  Frequency shifts take the form `FrequencyShift <shift>`.
 
+* [`FrequencyShift -200`](../assets/Effects/FreqShiftn200Hz.mp3)
+* [`FrequencyShift -100`](../assets/Effects/FreqShiftn100Hz.mp3)
+* [`FrequencyShift -50`](../assets/Effects/FreqShiftn50Hz.mp3)
+* [`FrequencyShift -20`](../assets/Effects/FreqShiftn20Hz.mp3)
+* [`FrequencyShift -10`](../assets/Effects/FreqShiftn10Hz.mp3)
+* [Non-Shifted Reference](../assets/Effects/FreqShiftNoShift.mp3)
 * [`FrequencyShift 10`](../assets/Effects/FreqShift10Hz.mp3)
 * [`FrequencyShift 20`](../assets/Effects/FreqShift20Hz.mp3)
 * [`FrequencyShift 50`](../assets/Effects/FreqShift50Hz.mp3)
 * [`FrequencyShift 100`](../assets/Effects/FreqShift100Hz.mp3)
 * [`FrequencyShift 200`](../assets/Effects/FreqShift200Hz.mp3)
-* [Non-Shifted Reference](../assets/Effects/FreqShiftNone.mp3)
+
+#### Chaining Effects
+
+You can chain together multiple effects by just adding a comma between them.  Effects are execute left to right.
+
+* [`NoiseVocodeEffect 30, Chorus, PitchShift 1.4`](../assets/Effects/DemonBees.mp3)
+* [`PitchShift 0.8, Reverb InsideBox`](../assets/Effects/GeenieBox.mp3)
 
 #### Removing Effects
 
