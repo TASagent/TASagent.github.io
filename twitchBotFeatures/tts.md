@@ -4,116 +4,120 @@ TASagentPuppet features a simple TTS system.  Users with elevated permissions ca
 
 ## TTS sound effects extension
 
-TTS supports the inline insertion of sound effects, used like this: `!tts Hey, TASagent!  Lookout!  Try not to /bao too hard`
+TTS supports the inline insertion of sound effects, used like this: `!tts Hey, TASagent!  Lookout!  Try not to /bao too hard`.
+
+**Note**: The sound effect samples will only function while the bot is live.
 
 ### Super Mario World sound effects
 
 | Name | Description | Example |
-|-------------------|-----------------------------------------------|---------|
-| `/bao`            |Yoshi spit sound                               |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/bao"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/midway`         |Midway sound                                   |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/midway"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/jump`           |Mario's ordinary jump sound                    |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/jump"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/kick`           |Mario kicks a koopa shell sound                |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/kick"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/pipe`           |Mario enters a pipe sound                      |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/pipe"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/powerup`        |Mario gets a cape powerup sound                |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/powerup"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/messageblock`   |Mario hits a message block sound               |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/messageblock"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/1up`            |One Up sound                                   |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/1up"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/balloon`        |Mario gets a P-Balloon sound                   |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/balloon"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/blargg`         |Blargg sound                                   |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/blargg"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/bonus`          |Musical outro at the end of the Bonus game     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/bonus"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/bowser`         |Sound of Bowser Returning                      |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/bowser"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/breakblock`     |Block-breaking sound                           |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/breakblock"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/bubble`         |Bubble Popping sound                           |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/bubble"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/caperise`       |Cape swoop sound                               |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/caperise"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/castleclear`    |Castle Clear outro                             |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/castleclear"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/coin`           |Coin collection sound                          |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/coin"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/courseclear`    |Course Clear outro                             |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/courseclear"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/dragoncoin`     |Dragon Coin collection sound                   |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/dragoncoin"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/egg`            |Egg Hatching                                   |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/egg"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/feather`        |Mario gets a Feather                           |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/feather"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/fireball`       |Mario launches a fireball                      |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/fireball"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/gameover`       |Game Over outro                                |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/gameover"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/goaliris`       |Level outro                                    |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/goaliris"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/flyinghit`      |Mario hit while flying                         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/flyinghit"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/keyhole`        |Keyhole Exit sound                             |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/keyhole"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/correct`        |Correct boss hit sound                         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/correct"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/incorrect`      |Incorrect boss hit sound                       |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/incorrect"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/died`           |Mario Dies outro                               |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/died"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/magikoopa`      |Magikoopa casts a Beam                         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/magikoopa"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/pause`          |Pause sound                                    |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/pause"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/powerupappears` |Power up appears sound                         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/powerupappears"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/princess`       |Princess cries for Help                        |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/princess"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/reserve`        |Reserve Item Release sound                     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/reserve"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/save`           |Save Menu sound                                |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/save"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/scroll`         |Scroll sound                                   |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/scroll"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/shellricochet`  |Shell Ricochet sound                           |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/shellricochet"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/spinjump`       |Spin Jump sound                                |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/spinjump"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/springjump`     |Spring Jump sound                              |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/springjump"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/stomp`          |Stomp sound                                    |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/stomp"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/stompbones`     |Stomping on Bones                              |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/stompbones"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/stompchuck`     |Stomping on a Chuck                            |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/stompchuck"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/spinstomp`      |Spin Stomp sound                               |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/spinstomp"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/swim`           |Swim sound                                     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/swim"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/switch`         |Switch block hit sound                         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/switch"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/thud`           |Thwomp Thud sound                              |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/thud"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/vine`           |Vine sound                                     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/vine"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/yoshimount`     |Yoshi Mount sound                              |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/yoshimount"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/yoshifire`      |Yoshi Fire sound                               |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/yoshifire"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/yoshihit`       |Yoshi Hit sound                                |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/yoshihit"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/yoshispit`      |Yoshi Spit sound                               |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/yoshispit"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/yoshistomp`     |Yoshi Stomp sound                              |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/yoshistomp"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-| `/yoshitongue`    |Yoshi Tongue sound                             |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/yoshitongue"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|-------------------|--------------------|---------|
+| `/bao`            |Yoshi spit          |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/bao"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/midway`         |Midway              |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/midway"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/jump`           |Ordinary jump       |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/jump"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/kick`           |Koopa shell kick    |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/kick"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/pipe`           |Entering a pipe     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/pipe"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/powerup`        |Mushroom powerup    |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/powerup"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/messageblock`   |Message block       |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/messageblock"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/1up`            |One-up              |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/1up"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/balloon`        |P-Balloon powerup   |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/balloon"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/blargg`         |Blargg              |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/blargg"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/bonus`          |Bonus game outro    |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/bonus"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/bowser`         |Bowser returns      |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/bowser"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/breakblock`     |Block-breaking      |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/breakblock"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/bubble`         |Bubble popping      |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/bubble"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/caperise`       |Cape swoop          |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/caperise"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/castleclear`    |Castle clear outro  |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/castleclear"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/coin`           |Coin pickup         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/coin"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/courseclear`    |Course clear outro  |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/courseclear"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/dragoncoin`     |Dragon coin pickup  |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/dragoncoin"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/egg`            |Egg hatching        |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/egg"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/feather`        |Feather powerup     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/feather"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/fireball`       |Mario fireball      |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/fireball"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/gameover`       |Game over outro     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/gameover"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/goaliris`       |Level outro         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/goaliris"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/flyinghit`      |Hit while flying    |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/flyinghit"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/keyhole`        |Keyhole exit        |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/keyhole"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/correct`        |Correct boss hit    |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/correct"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/incorrect`      |Incorrect boss hit  |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/incorrect"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/died`           |Death outro         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/died"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/magikoopa`      |Magikoopa beam      |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/magikoopa"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/pause`          |Pause               |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/pause"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/powerupappears` |Powerup appears     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/powerupappears"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/princess`       |Princess cry        |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/princess"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/reserve`        |Reserve item release|<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/reserve"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/save`           |Save menu           |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/save"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/scroll`         |Scroll              |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/scroll"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/shellricochet`  |Shell ricochet      |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/shellricochet"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/spinjump`       |Spin jump           |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/spinjump"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/springjump`     |Spring jump         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/springjump"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/stomp`          |Stomp               |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/stomp"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/stompbones`     |Stomping on bones   |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/stompbones"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/stompchuck`     |Stomping on a chuck |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/stompchuck"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/spinstomp`      |Spin stomp          |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/spinstomp"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/swim`           |Swim                |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/swim"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/switch`         |Switch block hit    |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/switch"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/thud`           |Thwomp thud         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/thud"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/vine`           |Vine                |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/vine"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/yoshimount`     |Yoshi mount         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/yoshimount"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/yoshifire`      |Yoshi fire          |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/yoshifire"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/yoshihit`       |Yoshi hit           |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/yoshihit"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/yoshispit`      |Yoshi spit          |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/yoshispit"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/yoshistomp`     |Yoshi stomp         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/yoshistomp"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| `/yoshitongue`    |Yoshi tongue        |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/yoshitongue"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 ### A Link To The Past sound effects
 
-* `/itemfanfare` - The classic "You Got The Thing" item fanfare sound effect
+* `/itemfanfare` - The classic "You Got The Thing" item fanfare sound effect <audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/itemfanfare" type="audio/mp3"> Audio Tag Unsupported. </audio>
 * `/yougotthething` - An alias for the classic "You Got The Thing" item fanfare sound effect
 
 ### Final Fantasy 7 sound effects
 
-* `/ff7alarm` - Alarm sound effect
-* `/ff7battleswirl` - Intro battle swirl sound effect
-* `/ff7chest` - Chest opening sound effect
-* `/ff7chocobokweh` - Chocobo kweh sound effect
-* `/ff7chocobowark` - Chocobo wark sound effect
-* `/ff7chocobowark2` - Another chocobo wark sound effect
-* `/ff7drumroll` - Drum roll sound effect
-* `/ff7elevatording` - Elevator ding sound effect
-* `/ff7falling` - A falling sound effect
-* `/ff7founditem` - Item find sound effect
-* `/ff7heartbeat` - Heart beat sound effect
-* `/ff7hit` - Getting hit sound effect
-* `/ff7hop` - Hopping sound effect
-* `/ff7item` - Item use sound effect
-* `/ff7jump` - Jump sound effect
-* `/ff7kill` - Enemy kill sound effect
-* `/ff7limit` - Limit break charged sound effect
-* `/ff7menuaccept` - Accept menu sound effect
-* `/ff7menubuzzer` - Buzzer menu sound effect
-* `/ff7menucancel` - Cancel menu sound effect
-* `/ff7menuequip` - Equip menu sound effect
-* `/ff7menulearnlimit` - Learn limit break menu sound effect
-* `/ff7menumove` - Move menu sound effect
-* `/ff7menuset` - Set menu sound effect
-* `/ff7menuuse` - Item use menu sound effect
-* `/ff7notification` - Notification sound effect
-* `/ff7phsring` - PHS ringtone sound effect
-* `/ff7purchase` - Store purchase sound effect
-* `/ff7run` - Escape combat sound effect
-* `/ff7savepoint` - Savepoint activation sound effect
-* `/ff7scan` - Scan sound effect
-* `/ff7searching` - Rummaging sound effect
-* `/ff7chant0` - A Sephiroth chant sound effect
-* `/ff7chant1` - A Sephiroth chant sound effect
-* `/ff7chant2` - A Sephiroth chant sound effect
-* `/ff7chant3` - A Sephiroth chant sound effect
-* `/ff7chant4` - A Sephiroth chant sound effect
-* `/ff7chant5` - A Sephiroth chant sound effect
-* `/ff7slots` - Slot machine sound effect
-* `/ff7train` - Train sound effect
-* `/ff7trainhorn` - Train horn sound effect
-* `/ff7typing` - Typing sound effect
-* `/ff7victoryfanfare` - Victory fanfare sound effect
+| Name | Description | Example |
+|-------------------------------|----------------------|-----------|
+|`/ff7alarm`         |Alarm                 |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7alarm"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7battleswirl`   |Intro battle swirl    |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7battleswirl"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chest`         |Chest opening         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7chest"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chocobokweh`   |Chocobo kweh          |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7chocobokweh"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chocobowark`   |Chocobo wark          |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7chocobowark"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chocobowark2`  |Another chocobo wark  |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7chocobowark2"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7drumroll`      |Drum roll             |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7drumroll"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7elevatording`  |Elevator ding         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7elevatording"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7falling`       |A falling             |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7falling"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7founditem`     |Item find             |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7founditem"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7heartbeat`     |Heart beat            |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7heartbeat"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7hit`           |Getting hit           |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7hit"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7hop`           |Hopping               |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7hop"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7item`          |Item use              |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7item"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7jump`          |Jump                  |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7jump"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7kill`          |Enemy kill            |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7kill"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7limit`         |Limit break charged   |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7limit"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menuaccept`    |Accept menu           |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7menuaccept"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menubuzzer`    |Buzzer menu           |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7menubuzzer"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menucancel`    |Cancel menu           |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7menucancel"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menuequip`     |Equip menu            |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7menuequip"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menulearnlimit`|Learn limit break menu|<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7menulearnlimit" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menumove`      |Move menu             |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7menumove"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menuset`       |Set menu              |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7menuset"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menuuse`       |Item use menu         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7menuuse"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7notification`  |Notification          |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7notification"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7phsring`       |PHS ringtone          |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7phsring"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7purchase`      |Store purchase        |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7purchase"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7run`           |Escape combat         |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7run"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7savepoint`     |Savepoint activation  |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7savepoint"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7scan`          |Scan                  |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7scan"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7searching`     |Rummaging             |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7searching"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chant0`        |A Sephiroth chant     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7chant0"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chant1`        |A Sephiroth chant     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7chant1"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chant2`        |A Sephiroth chant     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7chant2"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chant3`        |A Sephiroth chant     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7chant3"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chant4`        |A Sephiroth chant     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7chant4"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chant5`        |A Sephiroth chant     |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7chant5"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7slots`         |Slot machine          |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7slots"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7train`         |Train                 |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7train"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7trainhorn`     |Train horn            |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7trainhorn"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7typing`        |Typing                |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7typing"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7victoryfanfare`|Victory fanfare       |<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/ff7victoryfanfare" type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 Included are some convient aliases for the more noteworthy sounds
 
