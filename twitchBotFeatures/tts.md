@@ -68,8 +68,8 @@ TTS supports the inline insertion of sound effects, used like this: `!tts Hey, T
 
 ### A Link To The Past sound effects
 
-* `/itemfanfare` - The classic "You Got The Thing" item fanfare sound effect <audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/itemfanfare" type="audio/mp3"> Audio Tag Unsupported. </audio>
-* `/yougotthething` - An alias for the classic "You Got The Thing" item fanfare sound effect
+* `/itemfanfare` <audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/itemfanfare" type="audio/mp3"> Audio Tag Unsupported. </audio>
+* `/yougotthething` - An alias for the item fanfare sound effect
 
 ### Final Fantasy 7 sound effects
 
@@ -130,6 +130,15 @@ Included are some convient aliases for the more noteworthy sounds
 * `/buzzer` - An alias for the buzzer sound effect
 * `/heartbeat` - An alias for the hearbeat sound effect
 * `/chocobo` - An alias for the chocobo wark sound effect
+
+### Extraneous Sound Effects
+
+| Name      | Example     |
+|-----------|-------------|
+|`firework1`|<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/firework1" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`firework2`|<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/firework2" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`firework3`|<audio controls style="height: 30px" preload="none"><source src="http://tasagent.myqnapcloud.com:5000/TASagentBotAPI/SFX/LiveFetch/firework3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+
 
 ## TTS Effect Markup
 
@@ -205,6 +214,15 @@ Users can set a custom pitch that is used just for their TTS commands with `!set
 * `medium`
 * `high`
 * `x-high`
+
+| Voice            | X-Low | Low | Medium | High | X-High |
+|------------------|-------|-----|--------|------|--------|
+| Brian            |<audio controls style="height: 30px"><source src="../assets/Pitch/Brian_X_Low.mp3"             type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/Brian_Low.mp3"             type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/Brian_Medium.mp3"             type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/Brian_High.mp3"             type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/Brian_X_High.mp3"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| Joanna           |<audio controls style="height: 30px"><source src="../assets/Pitch/Joanna_X_Low.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/Joanna_Low.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/Joanna_Medium.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/Joanna_High.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/Joanna_X_High.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| Justin           |<audio controls style="height: 30px"><source src="../assets/Pitch/Justin_X_Low.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/Justin_Low.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/Justin_Medium.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/Justin_High.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/Justin_X_High.mp3"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| en-US-Standard-B |<audio controls style="height: 30px"><source src="../assets/Pitch/en-US-Standard-B_X_Low.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/en-US-Standard-B_Low.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/en-US-Standard-B_Medium.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/en-US-Standard-B_High.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/en-US-Standard-B_X_High.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| en-US-Standard-C |<audio controls style="height: 30px"><source src="../assets/Pitch/en-US-Standard-C_X_Low.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/en-US-Standard-C_Low.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/en-US-Standard-C_Medium.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/en-US-Standard-C_High.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/en-US-Standard-C_X_High.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+| en-AU-Standard-A |<audio controls style="height: 30px"><source src="../assets/Pitch/en-AU-Standard-A_X_Low.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/en-AU-Standard-A_Low.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/en-AU-Standard-A_Medium.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/en-AU-Standard-A_High.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|<audio controls style="height: 30px"><source src="../assets/Pitch/en-AU-Standard-A_X_High.mp3"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 ### TTS effects
 
