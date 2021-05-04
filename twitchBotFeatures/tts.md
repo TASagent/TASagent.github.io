@@ -1,6 +1,6 @@
 # TASagent TwitchBot TTS
 
-TASagentPuppet features a simple TTS system.  Users with elevated permissions can trigger TTS with the command: `!tts This is how I can use TTS in chat`
+TASagentPuppet features a simple TTS system.  Users with elevated permissions can trigger TTS with the command: `!tts This is how I can use TTS in chat`.
 
 ## TTS sound effects extension
 
