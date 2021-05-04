@@ -131,6 +131,44 @@ Included are some convient aliases for the more noteworthy sounds
 * `/heartbeat` - An alias for the hearbeat sound effect
 * `/chocobo` - An alias for the chocobo wark sound effect
 
+### Celeste sound effects
+
+| Name               | Example     |
+|--------------------|-------------|
+|`/celestedash`            |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestedash"             type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestedeath`           |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestedeath"            type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestesneeze`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestesneeze"           type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestejump`            |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestejump"             type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestesuper`           |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestesuper"            type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestepredeath`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestepredeath"         type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celesterevive`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesterevive"           type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestecassette`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestecassette"         type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestecassette1`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestecassette1"        type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestecassette2`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestecassette2"        type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celesteredheart`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesteredheart"         type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celesteblueheart`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesteblueheart"        type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestegoldheart`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestegoldheart"        type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celesteheartbounce`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesteheartbounce"      type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celesteplatform`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesteplatform"         type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestesecret`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestesecret"           type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberry1000`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry1000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberry2000`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry2000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberry3000`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry3000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberry4000`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry4000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberry5000`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry5000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberry1up`   |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry1up"    type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberrygrab`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberrygrab"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestewallbreakdirt`   |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestewallbreakdirt"    type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestewallbreakice`    |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestewallbreakice"     type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestewallbreakstone`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestewallbreakstone"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestewallbreakwood`   |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestewallbreakwood"    type="audio/ogg"> Audio Tag Unsupported. </audio>|
+
+Included are some convient aliases for the more noteworthy sounds
+
+* `/dash` - An alias for the Celeste Dash sound effect
+* `/celesteheart` - An alias for the Celeste Red Heart sound effect
+* `/celestestrawberry` - An alias for the Celeste Strawberry 1000 sound effect
+
 ### Extraneous Sound Effects
 
 | Name      | Example     |
