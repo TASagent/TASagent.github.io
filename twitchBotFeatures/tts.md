@@ -12,112 +12,112 @@ TTS supports the inline insertion of sound effects, used like this: `!tts Hey, T
 
 | Name            | Example |
 |-----------------|---------|
-|`/1up`           |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/1up"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/balloon`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/balloon"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/bao`           |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/bao"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/blargg`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/blargg"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/bonus`         |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/bonus"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/bowser`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/bowser"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/breakblock`    |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/breakblock"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/bubble`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/bubble"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/caperise`      |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/caperise"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/castleclear`   |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/castleclear"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/coin`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/coin"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/correct`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/correct"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/courseclear`   |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/courseclear"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/died`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/died"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/dragoncoin`    |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/dragoncoin"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/egg`           |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/egg"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/feather`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/feather"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/fireball`      |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/fireball"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/flyinghit`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/flyinghit"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/gameover`      |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/gameover"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/goaliris`      |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/goaliris"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/incorrect`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/incorrect"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/jump`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/jump"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/keyhole`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/keyhole"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/kick`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/kick"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/magikoopa`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/magikoopa"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/messageblock`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/messageblock"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/midway`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/midway"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/pause`         |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/pause"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/pipe`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/pipe"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/powerup`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/powerup"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/powerupappears`|<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/powerupappears"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/princess`      |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/princess"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/reserve`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/reserve"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/save`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/save"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/scroll`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/scroll"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/shellricochet` |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/shellricochet"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/spinjump`      |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/spinjump"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/spinstomp`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/spinstomp"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/springjump`    |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/springjump"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/stomp`         |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/stomp"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/stompbones`    |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/stompbones"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/stompchuck`    |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/stompchuck"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/swim`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/swim"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/switch`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/switch"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/thud`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/thud"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/vine`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/vine"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/yoshimount`    |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/yoshimount"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/yoshifire`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/yoshifire"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/yoshihit`      |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/yoshihit"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/yoshispit`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/yoshispit"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/yoshistomp`    |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/yoshistomp"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/yoshitongue`   |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/yoshitongue"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/1up`           |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/1up"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/balloon`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/balloon"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/bao`           |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/bao"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/blargg`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/blargg"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/bonus`         |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/bonus"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/bowser`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/bowser"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/breakblock`    |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/breakblock"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/bubble`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/bubble"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/caperise`      |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/caperise"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/castleclear`   |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/castleclear"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/coin`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/coin"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/correct`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/correct"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/courseclear`   |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/courseclear"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/died`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/died"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/dragoncoin`    |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/dragoncoin"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/egg`           |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/egg"             type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/feather`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/feather"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/fireball`      |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/fireball"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/flyinghit`     |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/flyinghit"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/gameover`      |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/gameover"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/goaliris`      |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/goaliris"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/incorrect`     |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/incorrect"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/jump`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/jump"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/keyhole`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/keyhole"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/kick`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/kick"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/magikoopa`     |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/magikoopa"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/messageblock`  |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/messageblock"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/midway`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/midway"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/pause`         |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/pause"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/pipe`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/pipe"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/powerup`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/powerup"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/powerupappears`|<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/powerupappears"  type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/princess`      |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/princess"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/reserve`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/reserve"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/save`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/save"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/scroll`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/scroll"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/shellricochet` |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/shellricochet"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/spinjump`      |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/spinjump"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/spinstomp`     |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/spinstomp"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/springjump`    |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/springjump"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/stomp`         |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/stomp"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/stompbones`    |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/stompbones"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/stompchuck`    |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/stompchuck"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/swim`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/swim"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/switch`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/switch"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/thud`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/thud"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/vine`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/vine"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/yoshimount`    |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/yoshimount"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/yoshifire`     |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/yoshifire"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/yoshihit`      |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/yoshihit"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/yoshispit`     |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/yoshispit"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/yoshistomp`    |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/yoshistomp"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/yoshitongue`   |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/yoshitongue"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 ### A Link To The Past sound effects
 
-* `/itemfanfare` <audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/itemfanfare" type="audio/mp3"> Audio Tag Unsupported. </audio>
+* `/itemfanfare` <audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/itemfanfare" type="audio/mp3"> Audio Tag Unsupported. </audio>
 * `/yougotthething` - An alias for the item fanfare sound effect
 
 ### Final Fantasy 7 sound effects
 
 | Name               | Example     |
 |--------------------|-------------|
-|`/ff7alarm`         |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7alarm"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7battleswirl`   |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7battleswirl"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7chant0`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chant0"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7chant1`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chant1"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7chant2`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chant2"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7chant3`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chant3"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7chant4`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chant4"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7chant5`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chant5"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7chest`         |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chest"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7chocobokweh`   |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chocobokweh"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7chocobowark`   |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chocobowark"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7chocobowark2`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chocobowark2"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7drumroll`      |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7drumroll"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7elevatording`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7elevatording"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7falling`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7falling"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7founditem`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7founditem"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7heartbeat`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7heartbeat"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7hit`           |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7hit"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7hop`           |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7hop"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7item`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7item"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7jump`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7jump"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7kill`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7kill"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7limit`         |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7limit"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7menuaccept`    |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menuaccept"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7menubuzzer`    |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menubuzzer"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7menucancel`    |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menucancel"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7menuequip`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menuequip"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7menulearnlimit`|<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menulearnlimit" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7menumove`      |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menumove"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7menuset`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menuset"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7menuuse`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menuuse"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7notification`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7notification"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7phsring`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7phsring"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7purchase`      |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7purchase"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7run`           |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7run"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7savepoint`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7savepoint"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7scan`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7scan"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7searching`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7searching"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7slots`         |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7slots"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7train`         |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7train"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7trainhorn`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7trainhorn"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7typing`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7typing"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`/ff7victoryfanfare`|<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7victoryfanfare" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7alarm`         |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7alarm"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7battleswirl`   |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7battleswirl"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chant0`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chant0"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chant1`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chant1"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chant2`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chant2"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chant3`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chant3"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chant4`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chant4"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chant5`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chant5"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chest`         |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chest"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chocobokweh`   |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chocobokweh"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chocobowark`   |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chocobowark"    type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7chocobowark2`  |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7chocobowark2"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7drumroll`      |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7drumroll"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7elevatording`  |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7elevatording"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7falling`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7falling"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7founditem`     |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7founditem"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7heartbeat`     |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7heartbeat"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7hit`           |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7hit"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7hop`           |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7hop"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7item`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7item"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7jump`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7jump"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7kill`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7kill"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7limit`         |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7limit"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menuaccept`    |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menuaccept"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menubuzzer`    |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menubuzzer"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menucancel`    |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menucancel"     type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menuequip`     |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menuequip"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menulearnlimit`|<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menulearnlimit" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menumove`      |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menumove"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menuset`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menuset"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7menuuse`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7menuuse"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7notification`  |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7notification"   type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7phsring`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7phsring"        type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7purchase`      |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7purchase"       type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7run`           |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7run"            type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7savepoint`     |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7savepoint"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7scan`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7scan"           type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7searching`     |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7searching"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7slots`         |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7slots"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7train`         |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7train"          type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7trainhorn`     |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7trainhorn"      type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7typing`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7typing"         type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`/ff7victoryfanfare`|<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/ff7victoryfanfare" type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 Included are some convient aliases for the more noteworthy sounds
 
@@ -135,33 +135,33 @@ Included are some convient aliases for the more noteworthy sounds
 
 | Name               | Example     |
 |--------------------|-------------|
-|`/celestedash`            |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestedash"             type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestedeath`           |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestedeath"            type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestesneeze`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestesneeze"           type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestejump`            |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestejump"             type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestesuper`           |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestesuper"            type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestepredeath`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestepredeath"         type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celesterevive`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesterevive"           type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestecassette`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestecassette"         type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestecassette1`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestecassette1"        type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestecassette2`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestecassette2"        type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celesteredheart`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesteredheart"         type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celesteblueheart`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesteblueheart"        type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestegoldheart`       |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestegoldheart"        type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celesteheartbounce`     |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesteheartbounce"      type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celesteplatform`        |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesteplatform"         type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestesecret`          |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestesecret"           type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestestrawberry1000`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry1000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestestrawberry2000`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry2000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestestrawberry3000`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry3000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestestrawberry4000`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry4000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestestrawberry5000`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry5000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestestrawberry1up`   |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry1up"    type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestestrawberrygrab`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberrygrab"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestewallbreakdirt`   |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestewallbreakdirt"    type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestewallbreakice`    |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestewallbreakice"     type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestewallbreakstone`  |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestewallbreakstone"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
-|`/celestewallbreakwood`   |<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestewallbreakwood"    type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestedash`            |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestedash"             type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestedeath`           |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestedeath"            type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestesneeze`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestesneeze"           type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestejump`            |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestejump"             type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestesuper`           |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestesuper"            type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestepredeath`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestepredeath"         type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celesterevive`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesterevive"           type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestecassette`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestecassette"         type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestecassette1`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestecassette1"        type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestecassette2`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestecassette2"        type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celesteredheart`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesteredheart"         type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celesteblueheart`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesteblueheart"        type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestegoldheart`       |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestegoldheart"        type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celesteheartbounce`     |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesteheartbounce"      type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celesteplatform`        |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celesteplatform"         type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestesecret`          |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestesecret"           type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberry1000`  |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry1000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberry2000`  |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry2000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberry3000`  |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry3000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberry4000`  |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry4000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberry5000`  |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry5000"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberry1up`   |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberry1up"    type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestestrawberrygrab`  |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestestrawberrygrab"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestewallbreakdirt`   |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestewallbreakdirt"    type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestewallbreakice`    |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestewallbreakice"     type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestewallbreakstone`  |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestewallbreakstone"   type="audio/ogg"> Audio Tag Unsupported. </audio>|
+|`/celestewallbreakwood`   |<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/celestewallbreakwood"    type="audio/ogg"> Audio Tag Unsupported. </audio>|
 
 Included are some convient aliases for the more noteworthy sounds
 
@@ -173,9 +173,9 @@ Included are some convient aliases for the more noteworthy sounds
 
 | Name      | Example     |
 |-----------|-------------|
-|`firework1`|<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/firework1" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`firework2`|<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/firework2" type="audio/mp3"> Audio Tag Unsupported. </audio>|
-|`firework3`|<audio controls style="height: 30px" preload="none"><source src="https://tas.wtf/TASagentBotAPI/SFX/LiveFetch/firework3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`firework1`|<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/firework1" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`firework2`|<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/firework2" type="audio/mp3"> Audio Tag Unsupported. </audio>|
+|`firework3`|<audio controls style="height: 30px" preload="none"><source src="https://bot.tas.wtf/TASagentBotAPI/SFX/LiveFetch/firework3" type="audio/mp3"> Audio Tag Unsupported. </audio>|
 
 
 ## TTS Effect Markup
