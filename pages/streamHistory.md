@@ -115,3 +115,57 @@
 | 2021-02-01 | SMW: Take It Easy World      | Ori and the Will of the Wisps  |                                |                          |        |
 | 2021-02-02 | SMW: Take It Easy World      | Ori and the Will of the Wisps  |                                |                          |        |
 | 2021-02-07 | SMW: Take It Easy World      | SMW: Quickie World 1           | Ori and the Will of the Wisps  |                          |        |
+| 2021-02-08 | SMW: Hyperion                |                                |                                |                          |        |
+| 2021-02-09 | SMW: Hyperion                |                                |                                |                          |        |
+| 2021-02-14 | SMW: Hyperion                | Dead Space                     |                                |                          |        |
+| 2021-02-15 | SMW: Hyperion                | Dead Space                     |                                |                          |        |
+| 2021-02-16 | SMW: Super LSG World         | Dead Space                     |                                |                          |        |
+| 2021-02-21 | SMW: Super LSG World         | SMW: Kuso Ecstasy              |                                |                          |        |
+| 2021-02-22 | SMW: Super LSG World         | Dead Space                     |                                |                          |        |
+| 2021-02-22 | SMW: Super Joe Bros. 2       | Dead Space                     |                                |                          |        |
+| 2021-02-28 | SMW: Super Joe Bros. 2       | Dead Space                     |                                |                          |        |
+| 2021-03-01 | SMW: BunBun World            |                                |                                |                          |        |
+| 2021-03-02 | SMW: BunBun World            |                                |                                |                          |        |
+| 2021-03-07 | SMW: BunBun World            |                                |                                |                          |        |
+| 2021-03-08 | SMW: BunBun World            | SMW: Cute Kaizo World          | SMW: Super Hark Bros.          |                          |        |
+| 2021-03-09 | Superliminal                 | Loop Hero                      |                                |                          |        |
+| 2021-03-14 | SMW: Super Hark Bros.        | SMW: Hyper EEJay Brahs.        |                                |                          |        |
+| 2021-03-15 | SMW: Super Hark Bros.        |                                |                                |                          |        |
+| 2021-03-21 | SMW: Super Hark Bros.        | SMW: Super Joe Bros. 2         |                                |                          |        |
+| 2021-03-22 | SMW: Super Joe Bros. 2       | SMW: BunBun World 2            |                                |                          |        |
+| 2021-03-23 | Dead Space                   | Celeste                        |                                |                          |        |
+| 2021-03-28 | SMW: Such a Nice Guy...      | Celeste                        |                                |                          |        |
+| 2021-03-29 | SMW: Such a Nice Guy...      | SMW: Invictus                  | Celeste                        |                          |        |
+| 2021-03-30 | SMW: Invictus                | Celeste                        |                                |                          |        |
+| 2021-04-04 | SMW: frostterror13 Testing   | Celeste                        |                                |                          |        |
+| 2021-04-05 | SMW: Invictus                | Celeste                        |                                |                          |        |
+| 2021-04-06 | SMW: Invictus                | Celeste                        |                                |                          |        |
+| 2021-04-11 | SMW: Invictus                | Celeste                        |                                |                          |        |
+| 2021-04-12 | SMW: Invictus                | Celeste                        |                                |                          |        |
+| 2021-04-13 | SMW: Invictus                | Celeste                        |                                |                          |        |
+| 2021-04-18 | SMW: Invictus                | Celeste                        |                                |                          |        |
+| 2021-04-19 | SMW: Invictus                | Celeste                        |                                |                          |        |
+| 2021-04-20 | Celeste                      | SMW: Invictus                  |                                |                          |        |
+| 2021-04-25 | SMW: Invictus                | Celeste                        |                                |                          |        |
+| 2021-04-26 | Celeste                      |                                |                                |                          |        |
+| 2021-04-27 | SMW: Invictus                |                                |                                |                          |        |
+| 2021-05-02 | SMW: Invictus                | Celeste                        |                                |                          |        |
+| 2021-05-03 | SMW: Invictus                | Celeste                        |                                |                          |        |
+| 2021-05-04 | Celeste                      | Celeste: Quickie Mountain      |                                |                          |        |
+| 2021-05-09 | SMW: Invictus                | Celeste: Quickie Mountain 2    |                                |                          |        |
+| 2021-05-10 | Celeste: Quickie Mountain 2  | It Takes Two                   |                                |                          |        |
+| 2021-05-11 | SMW: Invictus                | Celeste: Quickie Mountain 2    |                                |                          |        |
+| 2021-05-14 | Mass Effect                  |                                |                                |                          |        |
+| 2021-05-16 | Mass Effect                  | SMW: Invictus                  | Sizeable                       |                          |        |
+| 2021-05-17 | SMW: Invictus                | It Takes Two                   |                                |                          |        |
+| 2021-05-18 | SMW: Invictus                | Celeste: Quickie Mountain 2    |                                |                          |        |
+| 2021-05-23 | SMW: Invictus                |                                |                                |                          |        |
+| 2021-05-24 | Celeste: Quickie Mountain 2  | It Takes Two                   |                                |                          |        |
+| 2021-05-25 | Mass Effect                  |                                |                                |                          |        |
+| 2021-05-30 | SMW: Invictus                |                                |                                |                          |        |
+| 2021-05-31 | Celeste: Quickie Mountain 2  | It Takes Two                   | Corner of Cthulhu              |                          |        |
+| 2021-06-01 | Mass Effect                  | Mass Effect 2                  |                                |                          |        |
+| 2021-06-06 | SMW: Invictus                |                                |                                |                          |        |
+| 2021-06-07 | Celeste: Quickie Mountain 2  |                                |                                |                          |        |
+| 2021-06-08 | Mass Effect 2                |                                |                                |                          |        |
+
