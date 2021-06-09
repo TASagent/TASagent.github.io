@@ -159,7 +159,7 @@
 | 2021-05-16 | Mass Effect                  | SMW: Invictus                  | Sizeable                       |                          |        |
 | 2021-05-17 | SMW: Invictus                | It Takes Two                   |                                |                          |        |
 | 2021-05-18 | SMW: Invictus                | Celeste: Quickie Mountain 2    |                                |                          |        |
-| 2021-05-23 | SMW: Invictus                |                                |                                |                          |        |
+| 2021-05-23 | SMW: Invictus                | Celeste: Quickie Mountain 2    |                                |                          |        |
 | 2021-05-24 | Celeste: Quickie Mountain 2  | It Takes Two                   |                                |                          |        |
 | 2021-05-25 | Mass Effect                  |                                |                                |                          |        |
 | 2021-05-30 | SMW: Invictus                |                                |                                |                          |        |
